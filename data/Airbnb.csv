@@ -1,0 +1,6 @@
+﻿Borough,Average Price,Host verified,Host unconfirmed,Instant book,Not instant book,Strict cancellation,Moderate cancellation,Flexible cancellation,Number of Private Room,Number of Entire Home/Apt,Average Service Fee,Minimum night stays,Average number of reviews,Average review rate number,Average availability per year
+Brooklyn,608.63,220,227,230,217,159,146,142,166,280,122,11,68,3,203
+Manhattan,621.52,241,227,211,257,181,154,133,165,298,124,13,73,3,204
+Staten Island,637.27,5,6,5,6,4,3,4,8,3,127,5,33,2,257
+Bronx,499.83,7,5,4,8,2,5,5,7,5,100,5,107,3,141
+Queens,648.64,28,33,35,26,20,15,26,37,22,130,15,98,3,204

@@ -1,0 +1,50 @@
+body *{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small;
+  }
+
+h1 {
+    font-weight: 900;
+    font-size: large;
+}
+
+body {
+    background-color: #FFEFEF;
+}
+
+.vis-container {
+    width: 100%;
+}
+
+.description h2,
+h1 {
+    margin-top: 0px;
+}
+
+.description-right {
+    padding-left: 20px;
+}
+
+.description-middle {
+    padding-left: 100px;
+}
+
+.description-left {
+    padding-right: 20px;
+}
+
+.page {
+    width: 850px;
+    background-color: #FFEFEF;
+    margin: auto;
+    padding: 50px;
+    padding-top: 35px;
+}
+
+.pure-g {
+    margin-bottom: 40px;
+}
+
+.small-font {
+    font-size: 12px;
+}

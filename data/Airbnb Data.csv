@@ -1,0 +1,1000 @@
+Host Identity Verified,Borough,Neighbourhood,Latitude,Longtitude,Instant Bookable,Cancellation Policy,Room type,Construction Year,Price,Service fee,Minimum nights,Number of reviews,Review rate number,Availability per year (days)
+unconfirmed,Brooklyn,Kensington,40.65,-73.97,FALSE,strict,Private room,2020,966,193,10,9,4,286
+verified,Manhattan,Midtown,40.75,-73.98,FALSE,moderate,Entire home/apt,2007,142,28,30,45,4,228
+verified,Manhattan,East Harlem,40.8,-73.94,FALSE,moderate,Entire home/apt,2009,204,41,10,9,3,289
+verified,Manhattan,Murray Hill,40.75,-73.98,TRUE,flexible,Entire home/apt,2013,577,115,3,74,3,374
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,FALSE,moderate,Private room,2009,1060,212,45,49,5,219
+verified,Manhattan,Hell's Kitchen,40.76,-73.98,TRUE,strict,Private room,2005,1018,204,2,430,3,180
+unconfirmed,Manhattan,Upper West Side,40.8,-73.97,FALSE,strict,Private room,2015,291,58,2,118,5,375
+verified,Manhattan,Chinatown,40.71,-73.99,FALSE,flexible,Entire home/apt,2004,319,64,1,160,3,1
+verified,Manhattan,Upper West Side,40.8,-73.97,TRUE,flexible,Entire home/apt,2008,606,121,5,53,4,163
+verified,Brooklyn,South Slope,40.67,-73.99,TRUE,moderate,Private room,2010,580,116,4,167,4,47
+verified,Manhattan,Upper West Side,40.8,-73.96,FALSE,flexible,Private room,2019,149,30,2,113,3,68
+verified,Brooklyn,Bushwick,40.7,-73.93,TRUE,moderate,Entire home/apt,2005,1097,219,2,231,3,214
+unconfirmed,Manhattan,East Village,40.72,-73.98,FALSE,strict,Private room,2005,563,113,2,245,3,354
+verified,Brooklyn,South Slope,40.66,-73.98,TRUE,flexible,Entire home/apt,2020,370,74,3,15,2,33
+unconfirmed,Manhattan,Upper West Side,40.79,-73.98,FALSE,strict,Private room,2017,856,171,4,81,3,86
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,FALSE,strict,Entire home/apt,2017,589,118,30,29,1,83
+unconfirmed,Manhattan,Harlem,40.81,-73.94,TRUE,flexible,Private room,2005,839,168,2,170,1,258
+verified,Brooklyn,Gowanus,40.68,-73.99,FALSE,strict,Entire home/apt,2011,528,106,30,19,2,400
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,strict,Private room,2014,66,13,2,334,1,34
+unconfirmed,Brooklyn,Clinton Hill,40.69,-73.97,TRUE,flexible,Private room,2014,761,152,2,19,4,203
+unconfirmed,Manhattan,Harlem,40.82,-73.95,TRUE,flexible,Entire home/apt,2005,449,90,3,155,3,410
+verified,Brooklyn,Clinton Hill,40.68,-73.96,FALSE,moderate,Private room,2018,930,186,3,260,4,388
+verified,Manhattan,East Village,40.72,-73.99,FALSE,strict,Entire home/apt,2006,329,66,5,73,4,13
+verified,Brooklyn,Greenpoint,40.73,-73.95,FALSE,flexible,Private room,2006,1125,225,3,193,2,62
+unconfirmed,Brooklyn,Flatlands,40.63,-73.93,TRUE,moderate,Private room,2020,96,19,2,2,4,334
+verified,Brooklyn,Williamsburg,40.71,-73.96,FALSE,moderate,Private room,2003,1133,227,3,200,5,166
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.97,TRUE,strict,Private room,2014,162,32,8,27,4,18
+verified,Manhattan,West Village,40.73,-74,FALSE,moderate,Private room,2009,944,189,4,79,3,130
+unconfirmed,Brooklyn,Prospect Heights,40.67,-73.97,TRUE,moderate,Private room,2009,505,101,15,9,2,43
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,strict,Private room,2009,113,23,3,155,2,18
+verified,Manhattan,Financial District,40.71,-74.01,FALSE,strict,Entire home/apt,2022,387,77,268,114,4,320
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.97,FALSE,flexible,Private room,2008,1155,231,-10,213,5,19
+verified,Manhattan,West Village,40.74,-74,FALSE,strict,Entire home/apt,2017,665,133,189,86,1,293
+verified,Manhattan,Harlem,40.82,-73.95,TRUE,strict,Entire home/apt,2013,175,35,30,80,2,58
+unconfirmed,Manhattan,West Village,40.73,-74,TRUE,strict,Entire home/apt,2012,408,82,340,38,1,163
+verified,Manhattan,Harlem,40.82,-73.94,FALSE,strict,Entire home/apt,2019,601,120,128,18,3,240
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.98,FALSE,flexible,Private room,2011,107,21,350,206,4,96
+unconfirmed,Queens,Ridgewood,40.7,-73.9,TRUE,flexible,Entire home/apt,2011,724,145,166,10,4,300
+unconfirmed,Manhattan,Morningside Heights,40.81,-73.96,FALSE,strict,Private room,2019,450,90,110,122,4,425
+unconfirmed,Brooklyn,Park Slope,40.68,-73.98,FALSE,strict,Entire home/apt,2015,327,65,142,52,4,83
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.98,FALSE,strict,Private room,2005,444,89,3,37,1,341
+verified,Manhattan,East Village,40.73,-73.98,FALSE,strict,Entire home/apt,2010,1089,218,1,204,5,353
+unconfirmed,Brooklyn,Greenpoint,40.73,-73.96,TRUE,strict,Entire home/apt,2017,518,104,2,69,2,213
+unconfirmed,Manhattan,East Village,40.73,-73.99,TRUE,flexible,Entire home/apt,2015,396,79,3,205,4,19
+verified,Manhattan,Hell's Kitchen,40.77,-73.99,FALSE,flexible,Entire home/apt,2020,813,163,3,94,5,395
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,moderate,Entire home/apt,2017,111,22,3,7,3,410
+unconfirmed,Manhattan,Flatiron District,40.74,-73.98,TRUE,strict,Entire home/apt,2020,908,182,2,108,2,78
+verified,Manhattan,Harlem,40.81,-73.94,TRUE,moderate,Entire home/apt,2008,823,165,3,222,5,188
+unconfirmed,Manhattan,Harlem,40.83,-73.94,TRUE,flexible,Private room,2011,186,37,1,458,4,338
+verified,Brooklyn,Windsor Terrace,40.66,-73.98,FALSE,strict,Private room,2021,84,17,2,21,1,66
+unconfirmed,Manhattan,Roosevelt Island,40.76,-73.95,FALSE,moderate,Private room,2018,241,48,7,17,4,322
+verified,Manhattan,Lower East Side,40.72,-73.99,FALSE,strict,Entire home/apt,2017,54,11,3,41,3,322
+unconfirmed,Queens,Ridgewood,40.7,-73.9,TRUE,strict,Entire home/apt,2020,656,131,14,1,5,80
+unconfirmed,Brooklyn,Greenpoint,40.73,-73.96,TRUE,flexible,Entire home/apt,2018,509,102,2,69,5,146
+unconfirmed,Manhattan,Chinatown,40.72,-74,FALSE,flexible,Entire home/apt,2016,1198,240,4,18,5,382
+verified,Manhattan,Harlem,40.81,-73.94,TRUE,moderate,Private room,2011,1127,225,1,189,3,83
+verified,Manhattan,Chelsea,40.74,-74,FALSE,flexible,Entire home/apt,2006,595,119,2,35,1,0
+unconfirmed,Manhattan,Harlem,40.8,-73.96,FALSE,moderate,Private room,2010,1076,215,14,10,3,319
+unconfirmed,Manhattan,Chinatown,40.71,-73.99,FALSE,strict,Private room,2008,956,191,4,171,5,50
+unconfirmed,Manhattan,Midtown,40.76,-73.97,TRUE,moderate,Entire home/apt,2015,81,16,200,92,1,118
+verified,Brooklyn,Williamsburg,40.71,-73.95,FALSE,moderate,Private room,2019,1164,233,2,181,1,145
+verified,Manhattan,Upper West Side,40.78,-73.98,FALSE,strict,Entire home/apt,2022,1127,225,2,210,2,267
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.68,-73.95,TRUE,strict,Private room,2015,368,74,5,64,5,300
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,moderate,Entire home/apt,2012,850,170,7,5,4,33
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,TRUE,moderate,Entire home/apt,2006,1003,201,10,49,1,407
+verified,Manhattan,Upper West Side,40.79,-73.97,FALSE,strict,Entire home/apt,2010,544,109,11,30,4,76
+verified,Brooklyn,Carroll Gardens,40.68,-73.99,TRUE,flexible,Entire home/apt,2015,523,105,2,106,5,16
+unconfirmed,Brooklyn,Greenpoint,40.73,-73.96,FALSE,strict,Private room,2011,614,123,452,6,4,351
+verified,Manhattan,Little Italy,40.72,-74,TRUE,moderate,Entire home/apt,2013,178,36,2,191,2,397
+verified,Manhattan,Upper West Side,40.78,-73.98,FALSE,moderate,Entire home/apt,2008,61,12,30,48,3,276
+unconfirmed,Brooklyn,Bushwick,40.71,-73.92,TRUE,strict,Private room,2019,901,180,5,47,3,68
+unconfirmed,Manhattan,Inwood,40.87,-73.93,TRUE,moderate,Private room,2012,1189,238,2,120,4,398
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,strict,Private room,2008,783,157,3,52,4,135
+verified,Manhattan,East Village,40.73,-73.98,TRUE,strict,Entire home/apt,2009,69,14,2,48,4,86
+unconfirmed,Brooklyn,Greenpoint,40.73,-73.96,TRUE,moderate,Entire home/apt,2003,784,157,1,50,4,47
+verified,Bronx,Kingsbridge,40.87,-73.9,FALSE,strict,Entire home/apt,2009,55,11,30,4,5,315
+verified,Manhattan,Upper West Side,40.78,-73.98,FALSE,moderate,Entire home/apt,2008,989,198,13,38,3,105
+verified,Brooklyn,Greenpoint,40.73,-73.95,FALSE,flexible,Private room,2004,1029,206,3,29,1,87
+verified,Brooklyn,Williamsburg,40.71,-73.96,FALSE,strict,Entire home/apt,2015,291,58,4,59,3,52
+verified,Brooklyn,Williamsburg,40.72,-73.96,FALSE,flexible,Entire home/apt,2005,787,157,1,68,3,189
+unconfirmed,Manhattan,Harlem,40.8,-73.96,TRUE,moderate,Entire home/apt,2007,725,145,14,31,5,81
+unconfirmed,Queens,Astoria,40.78,-73.93,TRUE,moderate,Entire home/apt,2022,612,122,2,198,1,42
+unconfirmed,Manhattan,Lower East Side,40.72,-73.98,FALSE,flexible,Entire home/apt,2017,824,165,3,286,1,177
+verified,Brooklyn,South Slope,40.67,-73.99,TRUE,flexible,Entire home/apt,2011,1038,208,2,398,5,245
+verified,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,flexible,Private room,2014,72,14,3,36,1,386
+verified,Brooklyn,Boerum Hill,40.69,-73.99,TRUE,moderate,Entire home/apt,2013,162,32,4,6,5,247
+verified,Brooklyn,Clinton Hill,40.68,-73.96,FALSE,flexible,Entire home/apt,2006,701,140,6,14,4,394
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,TRUE,moderate,Private room,2021,566,113,14,76,5,179
+verified,Manhattan,Washington Heights,40.85,-73.93,FALSE,flexible,Private room,2021,50,10,2,136,4,312
+unconfirmed,Brooklyn,Gowanus,40.67,-73.99,FALSE,flexible,Entire home/apt,2006,575,115,7,98,3,141
+verified,Brooklyn,Williamsburg,40.71,-73.96,TRUE,strict,Private room,2011,99,20,3,31,2,419
+verified,Manhattan,Upper West Side,40.79,-73.97,FALSE,moderate,Entire home/apt,2012,52,10,21,45,5,256
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.96,TRUE,moderate,Entire home/apt,2019,964,193,3,124,5,380
+unconfirmed,Brooklyn,Greenpoint,40.74,-73.95,FALSE,flexible,Private room,2004,68,14,3,9,4,270
+unconfirmed,Manhattan,East Village,40.73,-73.99,TRUE,moderate,Entire home/apt,2017,549,110,5,166,5,45
+verified,Queens,Rockaway Beach,40.59,-73.81,FALSE,flexible,Private room,2011,438,88,27,13,3,336
+verified,Brooklyn,Crown Heights,40.67,-73.95,TRUE,moderate,Entire home/apt,2006,490,98,30,15,5,176
+verified,Manhattan,Harlem,40.83,-73.95,TRUE,strict,Private room,2013,1137,227,3,380,4,379
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,FALSE,flexible,Entire home/apt,2016,1170,234,2,86,2,35
+unconfirmed,Brooklyn,Greenpoint,40.73,-73.95,TRUE,strict,Entire home/apt,2011,753,151,3,248,2,210
+verified,Manhattan,Upper West Side,40.78,-73.99,TRUE,strict,Entire home/apt,2014,369,74,5,49,2,203
+unconfirmed,Manhattan,Midtown,40.75,-73.99,TRUE,strict,Entire home/apt,2022,508,102,18,54,4,264
+unconfirmed,Brooklyn,Crown Heights,40.68,-73.96,TRUE,flexible,Entire home/apt,2003,443,89,7,3,4,402
+verified,Manhattan,Harlem,40.81,-73.95,FALSE,strict,Private room,2005,947,189,1,1,1,53
+unconfirmed,Manhattan,Upper East Side,40.78,-73.95,FALSE,flexible,Entire home/apt,2021,857,171,2,56,3,252
+verified,Brooklyn,Fort Greene,40.69,-73.97,FALSE,flexible,Private room,2018,861,172,2,163,3,398
+unconfirmed,Brooklyn,Crown Heights,40.68,-73.95,TRUE,strict,Private room,2010,536,107,2,247,1,82
+verified,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,moderate,Private room,2017,690,138,10,116,5,5
+unconfirmed,Brooklyn,South Slope,40.67,-73.99,FALSE,flexible,Entire home/apt,2003,971,194,14,27,2,362
+verified,Manhattan,Lower East Side,40.72,-73.99,FALSE,strict,Entire home/apt,2008,696,139,1,52,5,338
+unconfirmed,Manhattan,Midtown,40.76,-73.97,FALSE,flexible,Entire home/apt,2014,1188,238,6,39,4,238
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,flexible,Entire home/apt,2010,586,117,2,29,1,318
+unconfirmed,Brooklyn,Park Slope,40.68,-73.98,TRUE,strict,Entire home/apt,2017,608,122,2,23,2,280
+unconfirmed,Manhattan,Harlem,40.8,-73.95,FALSE,strict,Entire home/apt,2015,964,193,2,142,2,140
+verified,Manhattan,East Village,40.73,-73.99,TRUE,strict,Entire home/apt,2010,154,31,2,70,4,256
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.93,TRUE,strict,Private room,2008,132,26,2,38,3,107
+verified,Brooklyn,Kensington,40.64,-73.97,FALSE,flexible,Private room,2015,779,156,-1,82,2,131
+unconfirmed,Manhattan,East Village,40.73,-73.99,TRUE,moderate,Entire home/apt,2014,619,124,2,403,1,35
+unconfirmed,Manhattan,Upper West Side,40.8,-73.97,TRUE,moderate,Private room,2018,1155,231,1,3,2,117
+verified,Manhattan,Nolita,40.72,-74,FALSE,flexible,Entire home/apt,2008,874,175,-10,68,5,13
+unconfirmed,Manhattan,East Village,40.72,-73.98,TRUE,strict,Entire home/apt,2009,589,118,4,22,5,84
+unconfirmed,Manhattan,Harlem,40.8,-73.95,FALSE,strict,Entire home/apt,2018,725,145,8,17,3,291
+unconfirmed,Bronx,Woodlawn,40.9,-73.86,TRUE,moderate,Entire home/apt,2010,811,162,1,197,5,132
+unconfirmed,Manhattan,Lower East Side,40.72,-73.98,FALSE,strict,Entire home/apt,2019,935,187,4,19,5,327
+unconfirmed,Queens,Astoria,40.76,-73.91,TRUE,flexible,Entire home/apt,2016,465,93,1,414,5,325
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.94,FALSE,moderate,Private room,2012,256,51,2,8,3,331
+verified,Manhattan,East Village,40.73,-73.98,FALSE,flexible,Private room,2007,1196,239,7,25,5,283
+unconfirmed,Manhattan,Harlem,40.81,-73.95,TRUE,moderate,Private room,2003,448,90,3,119,1,114
+verified,Manhattan,Harlem,40.8,-73.95,FALSE,moderate,Entire home/apt,2021,920,184,-12,203,5,77
+unconfirmed,Queens,Sunnyside,40.74,-73.92,TRUE,strict,Private room,2017,805,161,40,53,1,376
+verified,Brooklyn,Greenpoint,40.73,-73.96,FALSE,flexible,Entire home/apt,2008,859,172,2,104,2,211
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,moderate,Private room,2008,691,138,3,175,3,256
+unconfirmed,Manhattan,Harlem,40.82,-73.95,TRUE,flexible,Private room,2006,693,139,3,38,4,145
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,strict,Entire home/apt,2010,747,149,45,39,5,112
+verified,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,FALSE,flexible,Entire home/apt,2020,906,181,31,88,3,296
+verified,Brooklyn,Williamsburg,40.72,-73.96,FALSE,flexible,Entire home/apt,2022,252,50,5,117,5,47
+verified,Brooklyn,Clinton Hill,40.68,-73.96,FALSE,moderate,Private room,2017,718,144,3,43,2,130
+verified,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,TRUE,moderate,Private room,2017,857,171,1,39,5,193
+unconfirmed,Manhattan,Chelsea,40.74,-74,FALSE,flexible,Private room,2004,839,168,2,37,2,362
+verified,Manhattan,Upper West Side,40.78,-73.98,TRUE,flexible,Entire home/apt,2021,1126,225,3,10,5,100
+verified,Manhattan,East Village,40.73,-73.98,TRUE,strict,Entire home/apt,2020,166,33,2,103,2,248
+verified,Queens,Sunnyside,40.74,-73.92,FALSE,moderate,Private room,2004,330,66,40,41,2,400
+verified,Brooklyn,Williamsburg,40.71,-73.94,FALSE,flexible,Private room,2018,225,45,6,3,5,231
+unconfirmed,Manhattan,Harlem,40.83,-73.95,TRUE,strict,Entire home/apt,2010,839,168,3,227,3,399
+unconfirmed,Manhattan,Washington Heights,40.84,-73.94,TRUE,strict,Private room,2016,409,82,398,34,1,182
+unconfirmed,Manhattan,Upper West Side,40.78,-73.98,TRUE,strict,Entire home/apt,2022,410,82,-2,129,2,381
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,moderate,Entire home/apt,2021,229,46,3,147,5,253
+unconfirmed,Brooklyn,South Slope,40.66,-73.99,FALSE,moderate,Entire home/apt,2017,1060,212,28,101,4,53
+verified,Manhattan,East Harlem,40.8,-73.95,FALSE,moderate,Entire home/apt,2006,1046,209,2,11,4,191
+verified,Manhattan,Upper West Side,40.79,-73.98,FALSE,strict,Entire home/apt,2010,114,23,65,11,4,414
+verified,Manhattan,Harlem,40.8,-73.95,TRUE,moderate,Private room,2016,424,85,2,17,3,-9
+verified,Manhattan,Lower East Side,40.71,-73.99,FALSE,flexible,Private room,2016,435,87,3,3,4,9
+verified,Manhattan,Harlem,40.81,-73.95,TRUE,flexible,Shared room,2019,67,13,3,168,5,345
+verified,Brooklyn,Greenpoint,40.73,-73.96,TRUE,strict,Private room,2012,590,118,3,241,4,186
+verified,Manhattan,Gramercy,40.73,-73.98,FALSE,flexible,Entire home/apt,2016,365,73,2,105,3,248
+unconfirmed,Brooklyn,Bushwick,40.69,-73.92,TRUE,strict,Entire home/apt,2011,314,63,2,11,2,187
+verified,Manhattan,Upper West Side,40.77,-73.99,TRUE,moderate,Entire home/apt,2003,1139,228,30,30,4,400
+verified,Brooklyn,Crown Heights,40.68,-73.96,FALSE,moderate,Entire home/apt,2009,638,128,3,31,1,70
+verified,Manhattan,East Village,40.73,-73.98,FALSE,moderate,Private room,2014,1051,210,4,49,1,268
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,FALSE,flexible,Entire home/apt,2015,164,33,4,23,3,209
+verified,Brooklyn,Greenpoint,40.72,-73.95,TRUE,strict,Entire home/apt,2020,586,117,2,20,5,247
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,TRUE,flexible,Private room,2008,1057,211,2,227,5,19
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.94,TRUE,flexible,Private room,2005,546,109,4,80,3,88
+unconfirmed,Manhattan,West Village,40.74,-74,TRUE,moderate,Private room,2004,88,18,30,5,5,62
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,strict,Entire home/apt,2012,833,167,2,187,3,420
+verified,Manhattan,Chelsea,40.75,-74,FALSE,moderate,Private room,2011,440,88,4,1,3,398
+unconfirmed,Brooklyn,East New York,40.67,-73.87,TRUE,moderate,Entire home/apt,2011,1181,236,3,177,2,145
+verified,Brooklyn,Crown Heights,40.67,-73.95,FALSE,flexible,Entire home/apt,2010,923,185,4,90,3,45
+verified,Manhattan,Upper East Side,40.77,-73.96,TRUE,flexible,Entire home/apt,2014,858,172,7,39,2,369
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,moderate,Entire home/apt,2022,413,83,-3,42,5,292
+unconfirmed,Brooklyn,Prospect Heights,40.68,-73.97,TRUE,strict,Entire home/apt,2013,972,194,3,33,1,214
+verified,Brooklyn,Park Slope,40.67,-73.98,TRUE,strict,Entire home/apt,2005,346,69,3,179,5,114
+verified,Manhattan,East Village,40.73,-73.98,FALSE,flexible,Private room,2010,152,30,3,81,4,171
+verified,Manhattan,Hell's Kitchen,40.77,-73.99,FALSE,moderate,Private room,2021,619,124,28,43,5,-4
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.96,FALSE,strict,Private room,2003,557,111,30,52,4,228
+unconfirmed,Queens,Sunnyside,40.74,-73.92,TRUE,strict,Private room,2010,177,35,2,160,2,301
+verified,Manhattan,Chelsea,40.74,-74,FALSE,flexible,Entire home/apt,2020,836,167,6,23,1,129
+unconfirmed,Manhattan,Upper West Side,40.8,-73.96,FALSE,strict,Private room,2007,181,36,6,35,4,210
+unconfirmed,Manhattan,Washington Heights,40.83,-73.95,TRUE,flexible,Private room,2010,913,183,1,225,5,146
+unconfirmed,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,FALSE,moderate,Private room,2014,556,111,1,401,4,313
+verified,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,TRUE,moderate,Private room,2016,67,13,1,72,2,292
+verified,Brooklyn,Williamsburg,40.7,-73.95,FALSE,moderate,Private room,2003,253,51,1,46,5,30
+verified,Brooklyn,Bedford-Stuyvesant,40.68,-73.96,FALSE,flexible,Entire home/apt,2021,710,142,3,207,4,97
+verified,Manhattan,Harlem,40.83,-73.94,FALSE,moderate,Private room,2005,783,157,3,50,3,95
+verified,Brooklyn,Williamsburg,40.71,-73.94,FALSE,flexible,Private room,2014,760,152,2,273,3,373
+unconfirmed,Brooklyn,Park Slope,40.68,-73.98,TRUE,strict,Entire home/apt,2021,565,113,4,105,1,43
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,flexible,Private room,2021,567,113,4,72,5,402
+verified,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,TRUE,moderate,Entire home/apt,2022,644,129,3,123,2,236
+verified,Brooklyn,Bushwick,40.68,-73.91,FALSE,strict,Private room,2021,500,100,2,55,1,85
+verified,Brooklyn,Williamsburg,40.72,-73.94,FALSE,strict,Entire home/apt,2021,1114,223,4,87,4,75
+verified,Bronx,Concourse Village,40.83,-73.92,FALSE,moderate,Private room,2021,581,116,3,258,1,130
+verified,Brooklyn,Fort Greene,40.69,-73.97,FALSE,moderate,Entire home/apt,2016,353,71,2,4,4,240
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.97,TRUE,moderate,Entire home/apt,2012,680,136,14,31,4,425
+verified,Brooklyn,Sheepshead Bay,40.58,-73.94,TRUE,moderate,Entire home/apt,2007,441,88,4,128,2,-8
+verified,Brooklyn,Williamsburg,40.72,-73.96,FALSE,flexible,Entire home/apt,2022,357,71,3,14,5,138
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.93,TRUE,strict,Entire home/apt,2005,128,26,3,30,1,397
+verified,Queens,Sunnyside,40.74,-73.92,FALSE,strict,Private room,2009,924,185,28,258,2,251
+unconfirmed,Brooklyn,Greenpoint,40.73,-73.96,FALSE,strict,Entire home/apt,2009,186,37,3,228,4,324
+verified,Manhattan,West Village,40.74,-74.01,TRUE,flexible,Private room,2011,80,16,90,9,3,93
+verified,Manhattan,Theater District,40.76,-73.99,FALSE,moderate,Entire home/apt,2005,709,142,2,179,2,66
+verified,Brooklyn,Gowanus,40.68,-73.99,FALSE,moderate,Entire home/apt,2022,473,95,7,9,2,264
+verified,Brooklyn,Bushwick,40.7,-73.92,FALSE,flexible,Private room,2015,466,93,1,1,1,375
+unconfirmed,Manhattan,Lower East Side,40.72,-73.99,TRUE,strict,Private room,2021,228,46,30,25,1,103
+unconfirmed,Staten Island,Emerson Hill,40.61,-74.14,TRUE,flexible,Private room,2012,629,126,2,2,1,91
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,FALSE,strict,Private room,2014,520,104,3,152,1,380
+unconfirmed,Queens,Long Island City,40.76,-73.92,TRUE,strict,Entire home/apt,2012,476,95,30,24,3,259
+verified,Brooklyn,Fort Hamilton,40.62,-74.03,FALSE,moderate,Entire home/apt,2003,523,105,30,7,4,267
+verified,Manhattan,Harlem,40.81,-73.95,TRUE,flexible,Private room,2010,145,29,7,19,5,231
+unconfirmed,Brooklyn,Bensonhurst,40.62,-73.99,FALSE,moderate,Entire home/apt,2006,464,93,1,24,2,384
+verified,Brooklyn,Boerum Hill,40.69,-73.99,TRUE,moderate,Entire home/apt,2009,396,79,4,18,4,325
+unconfirmed,Manhattan,Chinatown,40.72,-74,TRUE,flexible,Private room,2007,119,24,30,59,3,211
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,TRUE,flexible,Entire home/apt,2012,244,49,7,63,1,162
+verified,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,strict,Private room,2017,697,139,2,52,1,122
+verified,Manhattan,East Village,40.73,-73.98,FALSE,moderate,Private room,2018,196,39,1,278,2,341
+verified,Brooklyn,Sunset Park,40.66,-74,FALSE,strict,Entire home/apt,2009,510,102,5,1,1,411
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,strict,Entire home/apt,2017,1159,232,2,35,4,7
+verified,Bronx,Concourse,40.83,-73.92,TRUE,flexible,Private room,2006,361,72,5,235,2,29
+unconfirmed,Manhattan,East Harlem,40.79,-73.95,TRUE,strict,Entire home/apt,2015,1090,218,28,115,5,265
+unconfirmed,Manhattan,SoHo,40.73,-74,FALSE,flexible,Private room,2005,588,118,5,1,4,392
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,FALSE,flexible,Entire home/apt,2004,779,156,3,305,3,175
+unconfirmed,Manhattan,East Harlem,40.79,-73.93,FALSE,strict,Entire home/apt,2007,1114,223,1,102,4,267
+verified,Manhattan,Hell's Kitchen,40.76,-74,FALSE,moderate,Entire home/apt,2017,676,135,30,83,3,303
+unconfirmed,Queens,Ridgewood,40.7,-73.91,FALSE,moderate,Private room,2006,674,135,1,19,1,420
+unconfirmed,Manhattan,Midtown,40.76,-73.97,TRUE,strict,Private room,2015,578,116,2,61,3,233
+unconfirmed,Manhattan,Harlem,40.81,-73.94,TRUE,flexible,Entire home/apt,2009,1025,205,5,89,1,336
+unconfirmed,Queens,Long Island City,40.75,-73.95,TRUE,moderate,Private room,2016,1112,222,30,65,1,-6
+unconfirmed,Brooklyn,South Slope,40.66,-73.99,FALSE,strict,Entire home/apt,2003,1067,213,1,40,3,69
+unconfirmed,Manhattan,West Village,40.74,-74,FALSE,flexible,Private room,2003,488,98,30,80,5,16
+unconfirmed,Manhattan,Lower East Side,40.72,-73.99,FALSE,moderate,Entire home/apt,2010,613,123,3,100,5,119
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.95,TRUE,moderate,Entire home/apt,2014,1105,221,2,125,4,419
+unconfirmed,Brooklyn,DUMBO,40.7,-73.98,FALSE,flexible,Entire home/apt,2022,968,194,5,40,2,367
+verified,Manhattan,Kips Bay,40.74,-73.98,FALSE,moderate,Entire home/apt,2019,1038,208,30,139,5,180
+unconfirmed,Manhattan,Chinatown,40.72,-74,FALSE,moderate,Entire home/apt,2021,188,38,7,2,2,239
+unconfirmed,Queens,Ditmars Steinway,40.78,-73.92,TRUE,flexible,Entire home/apt,2021,134,27,28,49,5,87
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.97,FALSE,moderate,Private room,2012,631,126,5,124,1,149
+verified,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,TRUE,flexible,Entire home/apt,2003,810,162,21,5,2,39
+unconfirmed,Brooklyn,Prospect Heights,40.68,-73.97,FALSE,flexible,Private room,2022,57,11,1,147,5,387
+verified,Brooklyn,Clinton Hill,40.69,-73.97,TRUE,moderate,Private room,2022,59,12,1,43,5,338
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,TRUE,moderate,Entire home/apt,2008,461,92,6,8,3,321
+verified,Manhattan,West Village,40.73,-74.01,TRUE,flexible,Entire home/apt,2004,1019,204,2,37,1,302
+unconfirmed,Brooklyn,Clinton Hill,40.69,-73.97,TRUE,moderate,Private room,2010,1038,208,1,120,3,3
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.94,FALSE,moderate,Entire home/apt,2017,1156,231,1,24,5,187
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,TRUE,flexible,Entire home/apt,2011,256,51,30,242,5,183
+unconfirmed,Manhattan,Inwood,40.86,-73.93,FALSE,flexible,Private room,2010,683,137,4,229,3,87
+unconfirmed,Bronx,Kingsbridge,40.87,-73.9,FALSE,flexible,Private room,2013,640,128,2,108,1,8
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,TRUE,moderate,Entire home/apt,2022,463,93,2,181,5,1
+unconfirmed,Manhattan,Chelsea,40.75,-74,FALSE,strict,Entire home/apt,2005,429,86,5,34,1,297
+unconfirmed,Brooklyn,Crown Heights,40.68,-73.94,FALSE,moderate,Private room,2003,1154,231,3,5,1,32
+unconfirmed,Manhattan,Gramercy,40.74,-73.98,TRUE,moderate,Entire home/apt,2021,629,126,1,5,4,211
+unconfirmed,Manhattan,Chinatown,40.72,-74,FALSE,moderate,Entire home/apt,2010,538,108,1,49,2,88
+verified,Manhattan,Harlem,40.81,-73.94,FALSE,strict,Private room,2008,1029,206,1,11,1,67
+unconfirmed,Manhattan,Greenwich Village,40.73,-74,TRUE,strict,Entire home/apt,2019,262,52,3,107,2,350
+verified,Brooklyn,Williamsburg,40.72,-73.96,FALSE,strict,Private room,2003,58,12,2,241,4,109
+unconfirmed,Manhattan,Upper West Side,40.79,-73.97,FALSE,flexible,Private room,2014,53,11,1,176,3,364
+unconfirmed,Manhattan,Chinatown,40.71,-73.99,TRUE,flexible,Private room,2006,792,158,4,151,4,193
+unconfirmed,Manhattan,East Harlem,40.79,-73.94,TRUE,moderate,Entire home/apt,2004,383,77,3,49,2,402
+unconfirmed,Brooklyn,Sunset Park,40.66,-73.99,TRUE,flexible,Entire home/apt,2014,1145,229,120,13,3,248
+unconfirmed,Brooklyn,Greenpoint,40.74,-73.95,TRUE,flexible,Entire home/apt,2009,1113,223,3,33,3,233
+verified,Brooklyn,Greenpoint,40.74,-73.95,FALSE,strict,Entire home/apt,2009,685,137,3,59,2,109
+unconfirmed,Brooklyn,Brighton Beach,40.58,-73.97,FALSE,strict,Private room,2011,637,127,1,2,1,189
+unconfirmed,Manhattan,Upper West Side,40.8,-73.96,FALSE,strict,Entire home/apt,2013,678,136,2,16,2,250
+unconfirmed,Manhattan,Harlem,40.82,-73.95,TRUE,flexible,Private room,2008,878,176,2,72,3,203
+unconfirmed,Brooklyn,Greenpoint,40.74,-73.95,FALSE,strict,Private room,2011,847,169,3,6,4,372
+verified,Brooklyn,Greenpoint,40.74,-73.95,FALSE,strict,Private room,2016,232,46,3,4,2,-2
+verified,Brooklyn,Clinton Hill,40.69,-73.96,FALSE,flexible,Entire home/apt,2018,758,152,3,233,5,318
+verified,Brooklyn,Park Slope,40.67,-73.98,FALSE,flexible,Entire home/apt,2005,963,193,3,135,5,162
+unconfirmed,Queens,St. Albans,40.71,-73.77,TRUE,strict,Private room,2015,738,148,4,20,3,140
+unconfirmed,Manhattan,West Village,40.74,-74.01,FALSE,strict,Entire home/apt,2019,328,66,4,46,4,418
+verified,Manhattan,Chelsea,40.75,-74,TRUE,strict,Entire home/apt,2015,177,35,365,10,1,230
+verified,Manhattan,Harlem,40.82,-73.95,FALSE,flexible,Private room,2007,1137,227,1,143,1,365
+verified,Staten Island,Arrochar,40.59,-74.06,FALSE,strict,Entire home/apt,2005,459,92,2,21,5,388
+unconfirmed,Staten Island,Arrochar,40.59,-74.07,FALSE,moderate,Entire home/apt,2013,845,169,2,8,1,297
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.97,TRUE,strict,Entire home/apt,2010,937,187,7,4,1,167
+unconfirmed,Manhattan,Upper East Side,40.77,-73.95,FALSE,flexible,Entire home/apt,2019,761,152,2,314,4,388
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.68,-73.95,FALSE,flexible,Entire home/apt,2003,563,113,3,18,3,178
+verified,Manhattan,West Village,40.73,-74,FALSE,moderate,Entire home/apt,2014,294,59,7,11,1,381
+unconfirmed,Manhattan,Financial District,40.71,-74.01,TRUE,strict,Private room,2015,483,97,7,51,3,35
+unconfirmed,Manhattan,Chelsea,40.74,-74,TRUE,moderate,Private room,2012,313,63,5,20,4,14
+verified,Manhattan,West Village,40.73,-74,FALSE,moderate,Entire home/apt,2004,878,176,7,8,5,132
+verified,Manhattan,Lower East Side,40.72,-73.99,FALSE,flexible,Entire home/apt,2004,121,24,31,59,1,370
+verified,Brooklyn,East Flatbush,40.64,-73.94,TRUE,strict,Entire home/apt,2005,86,17,4,54,1,-9
+verified,Manhattan,Lower East Side,40.72,-73.99,FALSE,strict,Private room,2016,1165,233,5,10,4,355
+verified,Manhattan,West Village,40.73,-74,TRUE,strict,Entire home/apt,2006,640,128,4,153,5,254
+unconfirmed,Brooklyn,Fort Greene,40.7,-73.98,TRUE,moderate,Entire home/apt,2012,342,68,3,110,2,302
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,moderate,Private room,2016,1014,203,2,69,4,9
+unconfirmed,Manhattan,Harlem,40.82,-73.95,TRUE,strict,Entire home/apt,2016,494,99,1,1,3,336
+verified,Brooklyn,Williamsburg,40.72,-73.96,FALSE,flexible,Entire home/apt,2011,155,31,180,24,4,88
+verified,Brooklyn,Crown Heights,40.67,-73.95,FALSE,flexible,Private room,2021,659,132,2,20,4,396
+unconfirmed,Brooklyn,Cypress Hills,40.68,-73.89,TRUE,flexible,Private room,2012,290,58,90,17,1,33
+unconfirmed,Manhattan,Upper East Side,40.76,-73.96,TRUE,moderate,Entire home/apt,2005,907,181,7,11,5,302
+verified,Manhattan,Nolita,40.72,-73.99,TRUE,moderate,Entire home/apt,2008,158,32,5,5,5,73
+unconfirmed,Manhattan,Upper West Side,40.78,-73.97,TRUE,flexible,Entire home/apt,2022,1044,209,30,36,4,333
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.97,FALSE,moderate,Entire home/apt,2007,282,56,15,5,2,404
+verified,Manhattan,Lower East Side,40.72,-73.99,FALSE,flexible,Entire home/apt,2019,673,135,4,68,5,175
+verified,Manhattan,Little Italy,40.72,-74,TRUE,moderate,Entire home/apt,2008,115,23,28,89,5,26
+unconfirmed,Manhattan,Financial District,40.71,-74,TRUE,strict,Private room,2011,979,196,30,10,4,405
+unconfirmed,Queens,Rego Park,40.73,-73.86,TRUE,flexible,Private room,2006,896,179,1,38,3,83
+verified,Bronx,Wakefield,40.9,-73.84,FALSE,flexible,Private room,2010,756,151,2,15,3,64
+verified,Brooklyn,Kensington,40.64,-73.97,TRUE,flexible,Private room,2003,422,84,2,20,3,181
+unconfirmed,Manhattan,East Harlem,40.79,-73.94,TRUE,strict,Private room,2019,586,117,3,25,5,246
+unconfirmed,Manhattan,Harlem,40.8,-73.95,FALSE,strict,Entire home/apt,2020,666,133,2,35,3,261
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.94,TRUE,flexible,Entire home/apt,2013,1183,237,30,1,2,253
+verified,Manhattan,Chelsea,40.75,-74,TRUE,strict,Entire home/apt,2020,175,35,3,64,4,92
+unconfirmed,Brooklyn,Crown Heights,40.66,-73.93,TRUE,flexible,Private room,2019,72,14,3,26,2,66
+unconfirmed,Queens,Long Island City,40.75,-73.95,TRUE,flexible,Private room,2015,620,124,2,244,5,142
+unconfirmed,Brooklyn,Bushwick,40.7,-73.93,TRUE,strict,Private room,2017,370,74,15,21,5,272
+verified,Queens,Woodside,40.74,-73.91,TRUE,flexible,Private room,2012,784,157,2,270,3,10
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.93,TRUE,moderate,Private room,2011,174,35,10,16,4,212
+verified,Manhattan,East Village,40.72,-73.99,TRUE,moderate,Entire home/apt,2006,1078,216,3,24,2,-9
+verified,Brooklyn,Williamsburg,40.71,-73.96,FALSE,strict,Private room,2009,65,13,1,30,4,339
+verified,Brooklyn,Williamsburg,40.71,-73.96,FALSE,strict,Private room,2006,891,178,2,5,3,379
+verified,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,FALSE,strict,Entire home/apt,2011,474,95,4,115,1,146
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,moderate,Private room,2003,440,88,5,9,1,28
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,TRUE,flexible,Private room,2012,627,125,5,45,2,105
+unconfirmed,Manhattan,Midtown,40.75,-73.97,TRUE,moderate,Entire home/apt,2021,1078,216,365,19,3,84
+verified,Manhattan,Upper East Side,40.76,-73.97,TRUE,moderate,Entire home/apt,2011,57,11,3,5,4,309
+unconfirmed,Manhattan,Greenwich Village,40.73,-73.99,FALSE,strict,Entire home/apt,2014,638,128,2,203,3,374
+verified,Manhattan,Washington Heights,40.86,-73.93,TRUE,flexible,Entire home/apt,2007,395,79,122,20,1,174
+unconfirmed,Manhattan,East Village,40.72,-73.98,TRUE,moderate,Entire home/apt,2019,516,103,3,49,4,232
+verified,Brooklyn,Fort Greene,40.69,-73.97,TRUE,moderate,Entire home/apt,2009,1161,232,5,7,5,133
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,TRUE,moderate,Private room,2018,456,91,2,35,3,17
+unconfirmed,Manhattan,West Village,40.73,-74,TRUE,flexible,Entire home/apt,2013,125,25,5,28,4,287
+unconfirmed,Manhattan,Harlem,40.8,-73.95,TRUE,moderate,Private room,2022,188,38,2,54,2,397
+verified,Brooklyn,Bushwick,40.71,-73.92,TRUE,moderate,Entire home/apt,2017,612,122,3,115,3,263
+verified,Brooklyn,Clinton Hill,40.68,-73.97,FALSE,moderate,Entire home/apt,2011,80,16,5,6,4,230
+unconfirmed,Manhattan,Upper East Side,40.77,-73.95,TRUE,moderate,Entire home/apt,2003,117,23,15,1,1,180
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.94,FALSE,flexible,Entire home/apt,2003,632,126,3,204,4,27
+verified,Brooklyn,Prospect Heights,40.68,-73.97,TRUE,moderate,Entire home/apt,2014,1122,224,3,89,1,106
+unconfirmed,Manhattan,Harlem,40.81,-73.96,TRUE,moderate,Private room,2010,122,24,6,130,2,114
+unconfirmed,Brooklyn,Greenpoint,40.73,-73.96,TRUE,moderate,Private room,2016,213,43,7,15,1,3
+verified,Manhattan,East Village,40.73,-73.99,TRUE,strict,Entire home/apt,2003,652,130,30,52,1,28
+verified,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.95,FALSE,moderate,Entire home/apt,2005,1003,201,6,58,3,296
+verified,Manhattan,East Harlem,40.79,-73.94,FALSE,moderate,Private room,2006,237,47,3,208,3,34
+verified,Queens,Astoria,40.77,-73.92,TRUE,strict,Private room,2012,911,182,5,3,1,316
+verified,Manhattan,West Village,40.74,-74.01,FALSE,moderate,Entire home/apt,2003,74,15,30,7,5,418
+verified,Brooklyn,Bedford-Stuyvesant,40.68,-73.92,TRUE,strict,Entire home/apt,2006,911,182,3,63,2,283
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.95,TRUE,moderate,Entire home/apt,2010,843,169,5,26,1,405
+unconfirmed,Manhattan,West Village,40.74,-74,TRUE,moderate,Entire home/apt,2015,706,141,27,1,5,414
+unconfirmed,Manhattan,Harlem,40.81,-73.95,FALSE,flexible,Private room,2015,146,29,1,107,2,253
+unconfirmed,Brooklyn,Kensington,40.64,-73.97,FALSE,strict,Entire home/apt,2017,261,52,30,3,4,108
+unconfirmed,Manhattan,Chinatown,40.72,-73.99,TRUE,strict,Entire home/apt,2014,1059,212,3,107,4,418
+verified,Brooklyn,Bedford-Stuyvesant,40.68,-73.93,TRUE,flexible,Private room,2017,701,140,3,29,5,180
+verified,Brooklyn,Gowanus,40.68,-73.99,TRUE,moderate,Entire home/apt,2007,279,56,6,69,3,168
+verified,Brooklyn,Park Slope,40.67,-73.98,FALSE,strict,Private room,2013,335,67,3,232,4,418
+verified,Brooklyn,Williamsburg,40.71,-73.95,TRUE,moderate,Entire home/apt,2020,451,90,19,5,4,414
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,moderate,Entire home/apt,2004,831,166,3,10,1,280
+unconfirmed,Brooklyn,South Slope,40.66,-73.98,TRUE,flexible,Private room,2021,214,43,4,36,2,83
+unconfirmed,Manhattan,West Village,40.73,-74.01,FALSE,moderate,Entire home/apt,2007,767,153,5,94,2,398
+unconfirmed,Manhattan,Chelsea,40.74,-74,FALSE,moderate,Entire home/apt,2021,1081,216,1,63,5,278
+unconfirmed,Brooklyn,Bushwick,40.7,-73.91,TRUE,strict,Private room,2020,316,63,15,5,3,316
+verified,Brooklyn,Crown Heights,40.67,-73.95,TRUE,moderate,Entire home/apt,2008,1009,202,3,238,5,29
+unconfirmed,Manhattan,Harlem,40.81,-73.96,TRUE,moderate,Private room,2004,1178,236,2,101,2,-2
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.93,TRUE,flexible,Entire home/apt,2018,322,64,3,21,4,378
+verified,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,strict,Entire home/apt,2016,993,199,2,72,4,125
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.68,-73.92,FALSE,flexible,Entire home/apt,2021,656,131,2,40,3,57
+unconfirmed,Brooklyn,Cobble Hill,40.69,-74,FALSE,flexible,Entire home/apt,2004,233,47,3,103,5,354
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.94,TRUE,moderate,Entire home/apt,2016,512,102,6,66,2,266
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.98,FALSE,flexible,Entire home/apt,2014,97,19,3,35,1,226
+verified,Brooklyn,Carroll Gardens,40.68,-74,TRUE,strict,Entire home/apt,2015,1135,227,31,121,5,321
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,strict,Entire home/apt,2017,279,56,8,15,4,30
+verified,Brooklyn,Carroll Gardens,40.68,-73.99,FALSE,strict,Entire home/apt,2007,554,111,2,13,1,36
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,flexible,Entire home/apt,2020,664,133,2,129,1,85
+unconfirmed,Manhattan,SoHo,40.73,-74,TRUE,strict,Entire home/apt,2018,108,22,5,8,3,69
+unconfirmed,Queens,Long Island City,40.75,-73.93,FALSE,moderate,Private room,2011,1127,225,2,5,2,146
+unconfirmed,Brooklyn,Greenpoint,40.72,-73.95,TRUE,flexible,Entire home/apt,2014,973,195,4,46,2,139
+verified,Manhattan,Chinatown,40.71,-74,FALSE,flexible,Entire home/apt,2019,696,139,30,37,1,319
+unconfirmed,Manhattan,Upper West Side,40.77,-73.99,FALSE,strict,Entire home/apt,2017,200,40,7,14,4,173
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.94,FALSE,moderate,Entire home/apt,2004,777,155,5,37,1,354
+unconfirmed,Queens,Astoria,40.77,-73.92,TRUE,strict,Entire home/apt,2012,290,58,5,1,1,324
+verified,Manhattan,West Village,40.74,-74,FALSE,strict,Private room,2016,1008,202,3,209,1,351
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,FALSE,moderate,Entire home/apt,2006,348,70,3,4,4,338
+verified,Brooklyn,Greenpoint,40.74,-73.95,TRUE,flexible,Entire home/apt,2016,237,47,3,43,1,225
+unconfirmed,Queens,Astoria,40.76,-73.93,FALSE,strict,Entire home/apt,2013,241,48,3,7,2,205
+unconfirmed,Brooklyn,Greenpoint,40.74,-73.95,TRUE,moderate,Entire home/apt,2015,1186,237,3,75,5,380
+unconfirmed,Manhattan,Upper West Side,40.78,-73.98,TRUE,strict,Entire home/apt,2010,626,125,1,88,3,321
+verified,Brooklyn,Greenpoint,40.74,-73.95,FALSE,strict,Entire home/apt,2009,413,83,3,73,3,324
+unconfirmed,Brooklyn,Greenpoint,40.74,-73.95,TRUE,flexible,Entire home/apt,2006,511,102,3,89,4,180
+verified,Brooklyn,Greenpoint,40.74,-73.95,TRUE,flexible,Entire home/apt,2019,659,132,3,23,4,-5
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,FALSE,flexible,Entire home/apt,2009,285,57,3,11,5,169
+verified,Brooklyn,Williamsburg,40.71,-73.95,TRUE,flexible,Private room,2012,833,167,28,84,2,345
+unconfirmed,Brooklyn,Greenpoint,40.74,-73.95,FALSE,moderate,Entire home/apt,2015,883,177,3,54,1,369
+verified,Brooklyn,Williamsburg,40.71,-73.95,TRUE,moderate,Private room,2015,921,184,3,17,1,281
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,FALSE,strict,Private room,2005,629,126,7,1,3,-2
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.97,FALSE,flexible,Entire home/apt,2004,130,26,1,73,5,325
+unconfirmed,Manhattan,Upper West Side,40.79,-73.97,FALSE,flexible,Entire home/apt,2021,1128,226,3,36,4,122
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.94,TRUE,moderate,Private room,2011,459,92,2,98,5,210
+verified,Brooklyn,Crown Heights,40.66,-73.96,TRUE,moderate,Private room,2015,802,160,5,2,4,69
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,TRUE,moderate,Private room,2017,314,63,5,18,1,244
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,strict,Private room,2021,375,75,3,24,5,112
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.97,TRUE,flexible,Private room,2010,572,114,3,1,5,39
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.97,TRUE,flexible,Private room,2021,894,179,1,2,2,95
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,flexible,Entire home/apt,2009,949,190,14,23,3,268
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,flexible,Private room,2007,495,99,2,93,3,131
+unconfirmed,Manhattan,SoHo,40.73,-74,FALSE,flexible,Entire home/apt,2011,1022,204,5,152,5,137
+verified,Brooklyn,East New York,40.67,-73.89,TRUE,moderate,Entire home/apt,2006,186,37,1,119,1,25
+verified,Manhattan,Upper West Side,40.79,-73.98,FALSE,flexible,Private room,2011,1055,211,3,14,1,239
+unconfirmed,Brooklyn,Greenpoint,40.73,-73.96,FALSE,moderate,Private room,2007,300,60,14,65,4,400
+unconfirmed,Staten Island,Clifton,40.62,-74.08,TRUE,moderate,Private room,2014,1174,235,1,50,3,118
+verified,Manhattan,Harlem,40.82,-73.95,TRUE,moderate,Private room,2006,131,26,3,33,1,129
+unconfirmed,Manhattan,Harlem,40.82,-73.94,FALSE,flexible,Private room,2013,97,19,3,30,5,164
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,TRUE,moderate,Private room,2009,648,130,3,13,4,29
+verified,Manhattan,Upper West Side,40.78,-73.97,FALSE,moderate,Entire home/apt,2004,772,154,30,18,5,66
+verified,Brooklyn,Crown Heights,40.68,-73.96,TRUE,flexible,Entire home/apt,2019,286,57,4,1,5,400
+unconfirmed,Manhattan,East Harlem,40.79,-73.94,TRUE,moderate,Private room,2016,481,96,3,216,5,279
+verified,Queens,Ridgewood,40.7,-73.91,FALSE,flexible,Private room,2011,398,80,2,98,5,201
+verified,Brooklyn,Prospect Heights,40.67,-73.97,TRUE,flexible,Private room,2020,1074,215,2,61,5,11
+verified,Manhattan,Lower East Side,40.72,-73.99,TRUE,strict,Entire home/apt,2019,788,158,30,13,4,116
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,flexible,Private room,2005,357,71,3,136,4,-6
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,flexible,Entire home/apt,2008,1171,234,2,39,2,332
+verified,Manhattan,West Village,40.73,-74.01,TRUE,strict,Entire home/apt,2008,736,147,14,65,4,195
+verified,Brooklyn,Kensington,40.64,-73.98,TRUE,moderate,Entire home/apt,2013,887,177,3,62,2,115
+verified,Manhattan,Harlem,40.8,-73.95,FALSE,strict,Private room,2022,764,153,3,47,3,274
+unconfirmed,Brooklyn,Bushwick,40.7,-73.92,TRUE,moderate,Entire home/apt,2022,480,96,2,42,4,215
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,TRUE,moderate,Private room,2015,278,56,3,207,5,134
+verified,Brooklyn,Bay Ridge,40.63,-74.02,FALSE,strict,Private room,2019,327,65,4,72,3,67
+unconfirmed,Manhattan,Harlem,40.81,-73.94,FALSE,strict,Entire home/apt,2017,488,98,30,25,5,311
+unconfirmed,Brooklyn,South Slope,40.66,-73.98,FALSE,flexible,Entire home/apt,2007,433,87,2,215,1,325
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,TRUE,flexible,Entire home/apt,2017,758,152,4,26,4,313
+unconfirmed,Manhattan,Gramercy,40.73,-73.98,FALSE,strict,Entire home/apt,2009,910,182,5,18,1,6
+verified,Manhattan,Washington Heights,40.83,-73.95,FALSE,moderate,Entire home/apt,2005,662,132,3,18,3,319
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.96,TRUE,flexible,Entire home/apt,2020,144,29,2,320,2,312
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.95,FALSE,moderate,Private room,2007,705,141,2,160,1,122
+verified,Manhattan,West Village,40.74,-74,FALSE,strict,Private room,2016,1145,229,2,78,4,57
+verified,Manhattan,Upper West Side,40.78,-73.98,TRUE,moderate,Entire home/apt,2003,835,167,30,64,1,125
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,FALSE,strict,Private room,2019,508,102,2,219,3,118
+verified,Manhattan,Upper East Side,40.78,-73.95,FALSE,strict,Entire home/apt,2004,1113,223,4,102,4,313
+verified,Manhattan,Upper East Side,40.77,-73.96,TRUE,moderate,Entire home/apt,2008,1167,233,2,32,4,194
+verified,Brooklyn,Clinton Hill,40.69,-73.96,FALSE,strict,Private room,2006,352,70,3,15,3,61
+verified,Manhattan,East Village,40.73,-73.99,FALSE,flexible,Entire home/apt,2021,270,54,5,1,1,294
+verified,Manhattan,Kips Bay,40.74,-73.98,FALSE,strict,Entire home/apt,2009,510,102,3,12,1,73
+verified,Manhattan,Midtown,40.75,-73.98,TRUE,moderate,Entire home/apt,2021,758,152,10,19,4,225
+unconfirmed,Manhattan,Upper West Side,40.79,-73.97,TRUE,strict,Entire home/apt,2012,1121,224,3,297,5,183
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.96,TRUE,flexible,Entire home/apt,2015,52,10,3,12,5,33
+unconfirmed,Brooklyn,Flatbush,40.64,-73.96,TRUE,flexible,Entire home/apt,2015,365,73,4,9,2,364
+verified,Manhattan,Chinatown,40.72,-73.99,FALSE,moderate,Entire home/apt,2005,1045,209,15,9,5,11
+verified,Manhattan,Inwood,40.87,-73.93,FALSE,flexible,Private room,2019,151,30,7,46,4,287
+verified,Brooklyn,Williamsburg,40.71,-73.96,TRUE,moderate,Private room,2021,244,49,4,42,4,111
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,FALSE,moderate,Private room,2019,759,152,2,118,3,217
+verified,Brooklyn,Williamsburg,40.71,-73.96,FALSE,strict,Entire home/apt,2021,865,173,30,53,3,422
+unconfirmed,Manhattan,Harlem,40.83,-73.94,FALSE,strict,Private room,2012,1070,214,1,15,2,85
+verified,Brooklyn,East Flatbush,40.64,-73.95,FALSE,strict,Entire home/apt,2021,171,34,3,64,4,195
+unconfirmed,Brooklyn,East Flatbush,40.64,-73.95,FALSE,strict,Entire home/apt,2021,964,193,3,51,2,196
+verified,Brooklyn,East Flatbush,40.64,-73.95,FALSE,moderate,Entire home/apt,2016,900,180,3,79,1,220
+unconfirmed,Manhattan,Harlem,40.8,-73.95,TRUE,strict,Private room,2007,890,178,3,202,3,218
+verified,Manhattan,Upper West Side,40.8,-73.97,FALSE,flexible,Entire home/apt,2007,1075,215,1,23,3,211
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,flexible,Private room,2016,481,96,5,110,4,393
+unconfirmed,Manhattan,Harlem,40.83,-73.95,TRUE,strict,Private room,2003,983,197,1,56,5,425
+unconfirmed,Manhattan,West Village,40.73,-74.01,FALSE,strict,Private room,2005,759,152,1,7,3,321
+unconfirmed,Brooklyn,Sunset Park,40.64,-74.02,FALSE,flexible,Entire home/apt,2007,1167,233,18,19,1,155
+unconfirmed,Manhattan,Greenwich Village,40.73,-74,TRUE,moderate,Private room,2011,166,33,3,7,2,392
+verified,Manhattan,Lower East Side,40.72,-73.99,FALSE,strict,Entire home/apt,2011,461,92,1,53,1,149
+verified,Manhattan,East Village,40.72,-73.98,FALSE,moderate,Entire home/apt,2003,944,189,3,265,1,15
+unconfirmed,Manhattan,Chinatown,40.72,-73.99,TRUE,moderate,Entire home/apt,2020,861,172,3,132,3,32
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,strict,Entire home/apt,2015,170,34,6,41,2,319
+verified,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,TRUE,moderate,Private room,2017,752,150,7,34,2,65
+verified,Brooklyn,Crown Heights,40.67,-73.96,FALSE,strict,Entire home/apt,2020,524,105,3,34,3,362
+verified,Manhattan,Midtown,40.75,-73.97,FALSE,moderate,Entire home/apt,2012,966,193,7,27,2,278
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.94,TRUE,strict,Private room,2013,125,25,4,30,4,331
+verified,Manhattan,Midtown,40.75,-73.99,FALSE,strict,Private room,2015,613,123,3,214,4,309
+unconfirmed,Manhattan,Upper East Side,40.78,-73.95,TRUE,flexible,Shared room,2008,644,129,30,12,4,193
+verified,Manhattan,Harlem,40.8,-73.95,TRUE,strict,Private room,2021,848,170,2,6,5,158
+verified,Brooklyn,Williamsburg,40.71,-73.94,TRUE,strict,Private room,2014,593,119,3,156,1,79
+verified,Brooklyn,Park Slope,40.68,-73.98,FALSE,flexible,Private room,2018,392,78,2,30,1,13
+verified,Brooklyn,Crown Heights,40.67,-73.95,FALSE,flexible,Entire home/apt,2013,984,197,5,1,3,212
+unconfirmed,Brooklyn,Greenpoint,40.74,-73.96,FALSE,flexible,Private room,2015,1138,228,5,3,5,283
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,TRUE,flexible,Private room,2015,611,122,2,272,4,137
+verified,Brooklyn,Prospect Heights,40.67,-73.97,FALSE,moderate,Private room,2019,372,74,3,63,1,421
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,strict,Entire home/apt,2011,675,135,30,58,5,95
+unconfirmed,Brooklyn,Greenpoint,40.72,-73.94,FALSE,flexible,Entire home/apt,2016,112,22,2,5,1,185
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,strict,Private room,2017,1100,220,3,63,1,28
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.93,FALSE,strict,Entire home/apt,2008,296,59,5,268,2,190
+unconfirmed,Staten Island,Graniteville,40.62,-74.17,FALSE,moderate,Private room,2013,1178,236,3,80,1,353
+unconfirmed,Manhattan,Upper West Side,40.78,-73.98,TRUE,moderate,Entire home/apt,2009,50,10,3,22,3,408
+verified,Manhattan,Hell's Kitchen,40.76,-73.99,FALSE,strict,Entire home/apt,2003,59,12,7,13,1,156
+unconfirmed,Brooklyn,Park Slope,40.67,-73.98,FALSE,strict,Entire home/apt,2017,400,80,4,23,5,295
+unconfirmed,Brooklyn,Sheepshead Bay,40.6,-73.95,TRUE,strict,Entire home/apt,2018,1187,237,30,3,2,287
+verified,Manhattan,Harlem,40.8,-73.95,TRUE,flexible,Private room,2010,846,169,3,10,3,163
+verified,Manhattan,Harlem,40.8,-73.95,FALSE,flexible,Private room,2013,1143,229,3,14,4,90
+verified,Manhattan,Inwood,40.87,-73.92,FALSE,flexible,Private room,2022,734,147,1,20,1,155
+verified,Brooklyn,Williamsburg,40.7,-73.93,TRUE,moderate,Private room,2020,827,165,5,2,4,2
+unconfirmed,Bronx,Spuyten Duyvil,40.88,-73.92,TRUE,moderate,Entire home/apt,2016,344,69,2,47,1,28
+verified,Staten Island,Stapleton,40.63,-74.08,TRUE,flexible,Private room,2020,682,136,2,6,4,-5
+verified,Manhattan,Upper East Side,40.77,-73.96,FALSE,moderate,Private room,2008,996,199,7,93,3,270
+unconfirmed,Manhattan,Midtown,40.76,-73.98,TRUE,strict,Entire home/apt,2006,647,129,3,116,5,215
+verified,Manhattan,Kips Bay,40.74,-73.98,TRUE,flexible,Private room,2007,71,14,240,15,2,80
+verified,Manhattan,Harlem,40.8,-73.95,FALSE,flexible,Entire home/apt,2018,677,135,2,70,5,275
+unconfirmed,Manhattan,Washington Heights,40.83,-73.94,FALSE,moderate,Private room,2009,919,184,3,4,3,347
+verified,Manhattan,Gramercy,40.74,-73.98,TRUE,moderate,Entire home/apt,2009,362,72,30,128,2,347
+verified,Queens,Briarwood,40.71,-73.82,FALSE,strict,Private room,2004,687,137,1,59,4,192
+unconfirmed,Queens,Ozone Park,40.69,-73.85,TRUE,flexible,Shared room,2012,712,142,1,8,2,218
+unconfirmed,Brooklyn,Columbia St,40.69,-74,FALSE,strict,Entire home/apt,2021,498,100,2,106,4,88
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.97,TRUE,moderate,Private room,2017,383,77,15,15,5,300
+verified,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,strict,Private room,2006,1148,230,2,133,1,189
+unconfirmed,Manhattan,Financial District,40.71,-74.02,TRUE,strict,Entire home/apt,2018,504,101,4,27,5,348
+verified,Manhattan,Nolita,40.72,-74,FALSE,strict,Private room,2015,826,165,5,61,5,330
+unconfirmed,Brooklyn,Greenpoint,40.72,-73.95,FALSE,strict,Private room,2015,418,84,2,2,4,16
+verified,Queens,Briarwood,40.71,-73.82,TRUE,moderate,Private room,2013,724,145,1,16,3,207
+verified,Manhattan,Harlem,40.83,-73.94,FALSE,flexible,Entire home/apt,2003,913,183,5,38,5,310
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,strict,Entire home/apt,2003,700,140,3,93,2,336
+unconfirmed,Manhattan,Harlem,40.83,-73.94,FALSE,moderate,Private room,2006,925,185,3,6,3,68
+verified,Manhattan,Upper East Side,40.79,-73.95,TRUE,strict,Entire home/apt,2019,524,105,7,30,4,4
+unconfirmed,Brooklyn,South Slope,40.66,-73.98,TRUE,flexible,Entire home/apt,2013,171,34,3,17,4,98
+verified,Manhattan,Lower East Side,40.72,-73.99,TRUE,flexible,Private room,2017,290,58,10,67,4,369
+unconfirmed,Brooklyn,Bushwick,40.7,-73.93,TRUE,moderate,Entire home/apt,2017,940,188,30,53,4,370
+unconfirmed,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,FALSE,moderate,Entire home/apt,2011,372,74,30,32,1,312
+verified,Brooklyn,Carroll Gardens,40.68,-73.99,TRUE,strict,Entire home/apt,2022,1087,217,30,131,2,33
+verified,Manhattan,Upper East Side,40.76,-73.96,TRUE,strict,Entire home/apt,2009,461,92,4,19,4,154
+unconfirmed,Manhattan,East Harlem,40.79,-73.95,FALSE,strict,Private room,2005,186,37,3,74,5,228
+verified,Manhattan,Midtown,40.75,-73.99,FALSE,moderate,Private room,2003,641,128,3,165,3,113
+unconfirmed,Queens,Long Island City,40.75,-73.93,TRUE,flexible,Entire home/apt,2006,145,29,2,59,4,203
+verified,Manhattan,SoHo,40.72,-74,TRUE,moderate,Entire home/apt,2011,1163,233,3,134,1,32
+unconfirmed,Manhattan,Nolita,40.72,-73.99,FALSE,strict,Entire home/apt,2003,96,19,28,81,2,245
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,TRUE,strict,Entire home/apt,2021,855,171,3,7,3,52
+verified,Brooklyn,Bushwick,40.69,-73.92,TRUE,moderate,Private room,2015,51,10,3,112,3,272
+verified,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,FALSE,strict,Entire home/apt,2008,175,35,2,92,2,315
+verified,Brooklyn,Boerum Hill,40.69,-73.99,TRUE,strict,Entire home/apt,2007,544,109,29,23,2,44
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.94,FALSE,moderate,Entire home/apt,2016,1163,233,5,125,1,281
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.95,TRUE,strict,Entire home/apt,2008,748,150,30,58,1,143
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.94,FALSE,strict,Entire home/apt,2012,373,75,5,9,4,299
+verified,Brooklyn,Williamsburg,40.71,-73.94,FALSE,strict,Private room,2017,960,192,3,137,1,205
+verified,Manhattan,Midtown,40.76,-73.96,TRUE,strict,Entire home/apt,2009,435,87,2,16,1,268
+verified,Manhattan,Financial District,40.71,-74.01,FALSE,strict,Entire home/apt,2019,70,14,1,36,5,137
+unconfirmed,Brooklyn,Clinton Hill,40.69,-73.96,FALSE,flexible,Entire home/apt,2018,1195,239,1,54,5,364
+verified,Manhattan,East Village,40.73,-73.99,TRUE,flexible,Entire home/apt,2010,208,42,14,1,2,246
+verified,Brooklyn,Greenpoint,40.72,-73.94,TRUE,strict,Entire home/apt,2014,1126,225,6,39,4,413
+verified,Brooklyn,Park Slope,40.67,-73.98,TRUE,strict,Entire home/apt,2020,185,37,1,145,5,282
+verified,Manhattan,East Village,40.73,-73.98,FALSE,flexible,Private room,2010,798,160,3,28,1,270
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.94,FALSE,moderate,Entire home/apt,2010,845,169,2,206,1,176
+unconfirmed,Manhattan,Lower East Side,40.72,-73.99,TRUE,strict,Entire home/apt,2006,88,18,7,4,5,6
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.94,TRUE,strict,Entire home/apt,2006,344,69,15,37,4,25
+verified,Manhattan,Upper West Side,40.78,-73.98,FALSE,moderate,Private room,2010,764,153,30,27,2,98
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,moderate,Entire home/apt,2008,737,147,30,18,2,290
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,strict,Private room,2020,382,76,1,134,2,62
+verified,Manhattan,Midtown,40.74,-73.98,FALSE,moderate,Entire home/apt,2010,441,88,2,197,4,355
+unconfirmed,Manhattan,West Village,40.73,-74,TRUE,moderate,Entire home/apt,2017,324,65,7,5,3,8
+verified,Brooklyn,Crown Heights,40.68,-73.96,TRUE,moderate,Entire home/apt,2019,76,15,28,5,1,-5
+verified,Brooklyn,Vinegar Hill,40.7,-73.98,TRUE,moderate,Entire home/apt,2006,1024,205,4,8,5,118
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.96,FALSE,moderate,Private room,2008,951,190,2,62,4,398
+verified,Manhattan,Washington Heights,40.84,-73.94,FALSE,flexible,Private room,2021,489,98,2,13,4,220
+verified,Manhattan,Upper West Side,40.79,-73.96,FALSE,moderate,Entire home/apt,2016,711,142,1,8,5,323
+verified,Manhattan,Washington Heights,40.83,-73.94,FALSE,moderate,Entire home/apt,2017,1118,224,3,50,3,380
+verified,Queens,Long Island City,40.75,-73.95,FALSE,moderate,Private room,2012,963,193,180,69,1,221
+verified,Brooklyn,Prospect Heights,40.68,-73.97,TRUE,strict,Entire home/apt,2013,690,138,4,41,5,324
+verified,Brooklyn,Clinton Hill,40.68,-73.97,FALSE,moderate,Entire home/apt,2015,1013,203,20,89,3,338
+unconfirmed,Brooklyn,East New York,40.65,-73.88,FALSE,strict,Entire home/apt,2004,795,159,4,40,3,287
+verified,Brooklyn,Gowanus,40.67,-73.99,TRUE,strict,Entire home/apt,2015,148,30,3,106,1,255
+unconfirmed,Manhattan,Financial District,40.71,-74.01,TRUE,flexible,Entire home/apt,2022,671,134,4,33,3,316
+verified,Manhattan,Upper East Side,40.78,-73.95,FALSE,strict,Private room,2014,198,40,5,2,2,115
+verified,Manhattan,West Village,40.74,-74,TRUE,flexible,Entire home/apt,2005,467,93,88,19,3,116
+verified,Manhattan,Financial District,40.71,-74.01,TRUE,flexible,Entire home/apt,2020,63,13,6,100,2,404
+verified,Brooklyn,Williamsburg,40.71,-73.96,FALSE,strict,Entire home/apt,2011,321,64,3,16,1,65
+unconfirmed,Manhattan,East Village,40.73,-73.99,TRUE,flexible,Private room,2016,1101,220,2,64,4,215
+unconfirmed,Manhattan,Harlem,40.83,-73.94,FALSE,flexible,Private room,2016,88,18,1,17,2,19
+verified,Manhattan,Harlem,40.83,-73.94,TRUE,flexible,Private room,2019,56,11,2,7,3,240
+verified,Brooklyn,Park Slope,40.67,-73.99,FALSE,moderate,Entire home/apt,2020,242,48,115,15,5,95
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,strict,Entire home/apt,2020,826,165,5,4,4,299
+verified,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,TRUE,strict,Entire home/apt,2012,612,122,3,87,4,406
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.94,TRUE,strict,Private room,2019,467,93,150,10,3,93
+unconfirmed,Queens,Ridgewood,40.7,-73.9,TRUE,flexible,Entire home/apt,2022,225,45,3,289,2,253
+verified,Manhattan,Chelsea,40.75,-74,TRUE,moderate,Entire home/apt,2007,550,110,9,10,4,361
+unconfirmed,Manhattan,Upper West Side,40.79,-73.97,FALSE,moderate,Entire home/apt,2003,555,111,14,39,5,302
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.93,TRUE,moderate,Entire home/apt,2011,1133,227,7,7,5,134
+unconfirmed,Bronx,Mott Haven,40.81,-73.92,FALSE,moderate,Private room,2005,231,46,1,23,2,374
+verified,Manhattan,Upper West Side,40.78,-73.98,FALSE,moderate,Entire home/apt,2014,354,71,4,22,2,253
+unconfirmed,Manhattan,Kips Bay,40.74,-73.98,TRUE,moderate,Private room,2020,1069,214,1,1,3,14
+verified,Brooklyn,Williamsburg,40.71,-73.97,FALSE,strict,Entire home/apt,2010,167,33,2,5,5,82
+unconfirmed,Queens,Jackson Heights,40.75,-73.88,TRUE,flexible,Private room,2005,1134,227,5,30,3,143
+verified,Bronx,Longwood,40.82,-73.9,FALSE,moderate,Entire home/apt,2022,719,144,5,82,3,268
+verified,Brooklyn,Canarsie,40.63,-73.9,FALSE,flexible,Private room,2019,709,142,5,105,5,38
+verified,Manhattan,Upper West Side,40.78,-73.98,FALSE,strict,Entire home/apt,2012,1056,211,3,73,1,53
+verified,Brooklyn,Sunset Park,40.64,-74.02,TRUE,moderate,Private room,2011,476,95,7,28,2,160
+verified,Brooklyn,Kensington,40.64,-73.97,FALSE,flexible,Entire home/apt,2003,1144,229,1,3,3,33
+verified,Brooklyn,Windsor Terrace,40.66,-73.98,FALSE,moderate,Entire home/apt,2004,1146,229,3,120,2,192
+unconfirmed,Brooklyn,Clinton Hill,40.69,-73.96,TRUE,strict,Private room,2003,1068,214,2,339,1,66
+verified,Brooklyn,Greenpoint,40.72,-73.95,TRUE,moderate,Entire home/apt,2019,448,90,2,7,1,182
+unconfirmed,Manhattan,Lower East Side,40.72,-73.99,TRUE,strict,Entire home/apt,2015,345,69,4,13,5,91
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,TRUE,flexible,Private room,2003,589,118,21,6,4,178
+unconfirmed,Manhattan,Harlem,40.82,-73.94,TRUE,moderate,Private room,2018,722,144,1,3,3,156
+verified,Manhattan,Inwood,40.87,-73.92,FALSE,strict,Entire home/apt,2007,934,187,20,11,4,18
+verified,Manhattan,East Village,40.73,-73.98,FALSE,strict,Entire home/apt,2006,1157,231,2,67,4,55
+verified,Manhattan,Inwood,40.87,-73.92,FALSE,strict,Entire home/apt,2013,1125,225,2,123,1,367
+verified,Brooklyn,Williamsburg,40.71,-73.95,FALSE,moderate,Private room,2020,700,140,4,132,3,407
+verified,Brooklyn,Williamsburg,40.7,-73.94,FALSE,flexible,Entire home/apt,2007,401,80,3,12,3,419
+verified,Manhattan,Upper East Side,40.77,-73.95,FALSE,flexible,Entire home/apt,2003,819,164,2,23,3,370
+verified,Manhattan,Kips Bay,40.74,-73.98,TRUE,strict,Entire home/apt,2017,429,86,2,47,1,313
+unconfirmed,Manhattan,Harlem,40.82,-73.95,TRUE,flexible,Entire home/apt,2017,323,65,8,8,5,202
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,moderate,Entire home/apt,2003,532,106,3,17,5,73
+unconfirmed,Manhattan,Lower East Side,40.72,-73.99,TRUE,moderate,Private room,2022,421,84,5,4,4,72
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.94,FALSE,strict,Entire home/apt,2003,1047,209,90,19,5,297
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,TRUE,flexible,Private room,2003,170,34,7,2,5,158
+unconfirmed,Brooklyn,Crown Heights,40.68,-73.95,TRUE,flexible,Entire home/apt,2008,402,80,2,35,4,277
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,TRUE,strict,Entire home/apt,2018,576,115,3,108,2,66
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.94,TRUE,strict,Entire home/apt,2005,150,30,3,182,4,-1
+unconfirmed,Manhattan,Lower East Side,40.72,-73.98,FALSE,flexible,Entire home/apt,2009,423,85,3,31,5,84
+verified,Queens,Jamaica,40.68,-73.76,TRUE,moderate,Shared room,2014,795,159,1,454,4,21
+verified,Manhattan,West Village,40.73,-74.01,TRUE,strict,Private room,2004,860,172,2,199,3,78
+verified,Manhattan,Lower East Side,40.72,-73.99,TRUE,moderate,Entire home/apt,2006,350,70,1,230,1,144
+verified,Brooklyn,Crown Heights,40.67,-73.95,TRUE,strict,Private room,2011,325,65,4,101,5,74
+unconfirmed,Manhattan,Battery Park City,40.71,-74.02,TRUE,flexible,Private room,2020,785,157,2,8,3,222
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.95,FALSE,moderate,Entire home/apt,2021,522,104,30,154,5,150
+verified,Manhattan,Morningside Heights,40.81,-73.96,TRUE,moderate,Private room,2015,300,60,28,69,1,253
+verified,Manhattan,Tribeca,40.72,-74.01,TRUE,strict,Entire home/apt,2005,1195,239,10,3,1,168
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,TRUE,moderate,Entire home/apt,2021,954,191,14,3,4,338
+verified,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,TRUE,strict,Private room,2006,356,71,4,12,4,409
+verified,Manhattan,Upper West Side,40.77,-73.99,TRUE,strict,Entire home/apt,2021,344,69,5,13,3,368
+unconfirmed,Brooklyn,Prospect Heights,40.68,-73.96,FALSE,flexible,Entire home/apt,2010,632,126,2,10,2,12
+verified,Brooklyn,Bushwick,40.69,-73.91,FALSE,flexible,Entire home/apt,2019,921,184,15,5,1,352
+verified,Queens,Long Island City,40.75,-73.94,TRUE,flexible,Private room,2020,877,175,1,144,1,244
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,flexible,Entire home/apt,2017,982,196,30,62,1,281
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,moderate,Entire home/apt,2012,1143,229,6,17,5,163
+verified,Manhattan,Harlem,40.83,-73.94,FALSE,moderate,Private room,2007,1174,235,1,439,4,297
+verified,Manhattan,Two Bridges,40.71,-73.99,TRUE,moderate,Private room,2019,966,193,4,48,5,116
+verified,Manhattan,Kips Bay,40.74,-73.98,TRUE,moderate,Entire home/apt,2013,1040,208,3,134,2,60
+verified,Brooklyn,Carroll Gardens,40.68,-74,TRUE,flexible,Entire home/apt,2021,1017,203,6,2,1,43
+unconfirmed,Manhattan,Chelsea,40.74,-74,FALSE,flexible,Entire home/apt,2014,182,36,3,16,3,11
+verified,Brooklyn,Fort Greene,40.69,-73.97,FALSE,strict,Entire home/apt,2011,741,148,2,31,4,170
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,moderate,Entire home/apt,2010,150,30,30,36,4,241
+verified,Queens,Sunnyside,40.75,-73.92,FALSE,flexible,Private room,2021,343,69,3,1,2,105
+verified,Brooklyn,Williamsburg,40.72,-73.95,FALSE,flexible,Entire home/apt,2015,407,81,2,338,5,60
+verified,Manhattan,Upper West Side,40.77,-73.99,TRUE,moderate,Private room,2011,733,147,3,117,5,328
+unconfirmed,Manhattan,Lower East Side,40.72,-73.98,FALSE,strict,Entire home/apt,2006,794,159,1,261,4,425
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,strict,Entire home/apt,2022,786,157,30,32,3,38
+verified,Brooklyn,Fort Greene,40.69,-73.98,FALSE,strict,Private room,2012,609,122,2,112,4,405
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,TRUE,moderate,Private room,2009,182,36,2,22,2,41
+unconfirmed,Manhattan,Civic Center,40.71,-74.01,TRUE,flexible,Entire home/apt,2011,855,171,2,319,5,130
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.97,TRUE,flexible,Entire home/apt,2009,1198,240,7,69,2,1
+verified,Brooklyn,Clinton Hill,40.69,-73.97,FALSE,strict,Entire home/apt,2009,986,197,4,10,1,164
+unconfirmed,Brooklyn,Windsor Terrace,40.66,-73.98,FALSE,moderate,Entire home/apt,2007,184,37,2,24,3,171
+verified,Brooklyn,Fort Hamilton,40.61,-74.03,TRUE,flexible,Entire home/apt,2017,834,167,30,3,4,339
+unconfirmed,Brooklyn,Gowanus,40.68,-73.99,TRUE,flexible,Private room,2004,913,183,31,17,4,39
+verified,Brooklyn,Williamsburg,40.71,-73.95,TRUE,moderate,Entire home/apt,2010,940,188,7,13,1,129
+verified,Brooklyn,Sunset Park,40.66,-73.99,TRUE,strict,Entire home/apt,2015,209,42,2,58,3,25
+verified,Manhattan,East Village,40.72,-73.98,FALSE,flexible,Entire home/apt,2020,658,132,2,62,3,89
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,moderate,Entire home/apt,2007,246,49,3,203,1,408
+unconfirmed,Brooklyn,Sunset Park,40.66,-74,TRUE,strict,Private room,2010,874,175,2,33,4,210
+unconfirmed,Manhattan,East Harlem,40.79,-73.93,FALSE,moderate,Private room,2021,1131,226,3,47,3,128
+unconfirmed,Manhattan,Midtown,40.76,-73.96,FALSE,moderate,Entire home/apt,2016,566,113,14,30,1,10
+verified,Brooklyn,Park Slope,40.68,-73.98,TRUE,strict,Entire home/apt,2007,634,127,3,2,2,84
+unconfirmed,Brooklyn,Prospect Heights,40.67,-73.97,TRUE,strict,Private room,2016,825,165,2,121,1,86
+unconfirmed,Brooklyn,Park Slope,40.67,-73.98,FALSE,strict,Entire home/apt,2014,757,151,3,27,5,382
+unconfirmed,Manhattan,Upper West Side,40.79,-73.97,TRUE,moderate,Entire home/apt,2014,284,57,3,24,4,139
+verified,Manhattan,Chinatown,40.71,-74,FALSE,strict,Entire home/apt,2007,1141,228,5,22,3,121
+verified,Manhattan,Chinatown,40.72,-73.99,FALSE,moderate,Entire home/apt,2004,504,101,2,162,5,337
+unconfirmed,Brooklyn,Gowanus,40.68,-73.99,TRUE,flexible,Entire home/apt,2006,879,176,1,66,4,356
+verified,Manhattan,SoHo,40.72,-74,TRUE,moderate,Entire home/apt,2015,534,107,2,63,2,43
+unconfirmed,Queens,East Elmhurst,40.76,-73.89,TRUE,moderate,Private room,2009,819,164,1,219,3,150
+verified,Brooklyn,Fort Greene,40.69,-73.98,FALSE,strict,Entire home/apt,2018,254,51,4,2,4,215
+verified,Brooklyn,South Slope,40.67,-73.98,FALSE,moderate,Entire home/apt,2013,325,65,3,12,1,164
+unconfirmed,Brooklyn,Gowanus,40.68,-73.99,FALSE,strict,Private room,2018,1124,225,2,35,4,266
+verified,Brooklyn,Williamsburg,40.71,-73.96,TRUE,flexible,Private room,2005,243,49,1,124,5,179
+verified,Bronx,Allerton,40.87,-73.85,FALSE,flexible,Private room,2022,100,20,7,2,5,165
+unconfirmed,Brooklyn,Brighton Beach,40.58,-73.96,TRUE,moderate,Entire home/apt,2007,642,128,4,63,3,279
+unconfirmed,Manhattan,East Village,40.73,-73.98,TRUE,moderate,Entire home/apt,2016,688,138,4,162,3,203
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.93,FALSE,moderate,Private room,2018,687,137,3,103,4,330
+unconfirmed,Manhattan,Harlem,40.82,-73.94,FALSE,moderate,Private room,2003,561,112,30,185,2,247
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,TRUE,flexible,Private room,2016,553,111,4,219,4,311
+verified,Manhattan,Upper West Side,40.8,-73.96,FALSE,strict,Private room,2019,1034,207,1,280,1,47
+verified,Manhattan,Chelsea,40.74,-74,FALSE,flexible,Shared room,2008,218,44,1,61,2,336
+unconfirmed,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,TRUE,moderate,Private room,2008,512,102,1,184,2,32
+verified,Brooklyn,South Slope,40.66,-73.99,FALSE,flexible,Entire home/apt,2016,929,186,3,116,5,294
+unconfirmed,Staten Island,New Springville,40.59,-74.16,TRUE,flexible,Private room,2014,271,54,2,11,3,404
+verified,Manhattan,SoHo,40.73,-74,FALSE,strict,Entire home/apt,2012,405,81,3,9,1,413
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,FALSE,flexible,Entire home/apt,2014,593,119,5,4,3,70
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,FALSE,strict,Entire home/apt,2012,379,76,2,15,4,197
+unconfirmed,Manhattan,West Village,40.73,-74,FALSE,strict,Entire home/apt,2017,1117,223,4,22,2,314
+unconfirmed,Manhattan,Greenwich Village,40.73,-74,TRUE,flexible,Entire home/apt,2012,683,137,3,18,4,9
+verified,Brooklyn,Prospect Heights,40.68,-73.97,FALSE,strict,Entire home/apt,2015,568,114,3,56,1,410
+unconfirmed,Manhattan,Upper West Side,40.8,-73.97,TRUE,strict,Entire home/apt,2005,523,105,4,2,4,244
+unconfirmed,Manhattan,Lower East Side,40.72,-73.99,FALSE,flexible,Entire home/apt,2010,62,12,3,57,5,112
+verified,Manhattan,East Village,40.72,-73.98,TRUE,moderate,Entire home/apt,2017,1018,204,4,13,3,115
+unconfirmed,Manhattan,Upper East Side,40.78,-73.95,FALSE,flexible,Private room,2008,401,80,1,1,2,248
+unconfirmed,Brooklyn,Bushwick,40.69,-73.91,TRUE,flexible,Private room,2016,1138,228,2,37,5,173
+verified,Manhattan,East Village,40.73,-73.98,TRUE,strict,Private room,2008,357,71,5,451,1,158
+unconfirmed,Queens,Astoria,40.76,-73.92,TRUE,strict,Entire home/apt,2019,1159,232,30,24,3,286
+verified,Manhattan,East Village,40.73,-73.98,FALSE,strict,Entire home/apt,2020,1094,219,7,19,2,198
+unconfirmed,Bronx,Morris Heights,40.85,-73.91,TRUE,flexible,Private room,2013,735,147,3,190,4,109
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,moderate,Private room,2010,235,47,2,46,1,10
+verified,Brooklyn,Flatbush,40.64,-73.97,TRUE,strict,Entire home/apt,2009,332,66,1,169,2,407
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,moderate,Entire home/apt,2011,127,25,1,15,3,98
+unconfirmed,Brooklyn,Brooklyn Heights,40.7,-73.99,FALSE,flexible,Entire home/apt,2018,556,111,3,60,2,405
+unconfirmed,Brooklyn,Crown Heights,40.68,-73.95,TRUE,flexible,Entire home/apt,2017,799,160,2,320,1,357
+unconfirmed,Queens,Long Island City,40.75,-73.94,TRUE,moderate,Entire home/apt,2011,540,108,2,182,4,97
+unconfirmed,Brooklyn,Prospect Heights,40.68,-73.97,TRUE,moderate,Entire home/apt,2008,810,162,30,1,1,197
+unconfirmed,Brooklyn,Boerum Hill,40.69,-73.98,TRUE,moderate,Entire home/apt,2016,443,89,2,134,4,251
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.94,TRUE,flexible,Entire home/apt,2003,472,94,10,10,1,233
+unconfirmed,Manhattan,Chelsea,40.74,-74,FALSE,moderate,Entire home/apt,2009,301,60,1,60,3,339
+verified,Brooklyn,Fort Greene,40.69,-73.97,FALSE,strict,Entire home/apt,2012,231,46,30,5,4,248
+unconfirmed,Manhattan,Chelsea,40.75,-74,FALSE,flexible,Entire home/apt,2003,897,179,5,9,2,373
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,strict,Entire home/apt,2018,1183,237,3,1,5,411
+verified,Brooklyn,Kensington,40.65,-73.98,FALSE,strict,Entire home/apt,2021,351,70,10,33,4,65
+verified,Brooklyn,Williamsburg,40.72,-73.94,FALSE,strict,Private room,2021,521,104,1,10,5,164
+verified,Queens,Ridgewood,40.7,-73.9,FALSE,flexible,Entire home/apt,2022,76,15,30,3,2,244
+verified,Manhattan,Upper East Side,40.77,-73.96,TRUE,moderate,Private room,2019,690,138,3,10,3,222
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,strict,Entire home/apt,2017,473,95,30,62,3,423
+verified,Manhattan,Harlem,40.83,-73.95,FALSE,strict,Entire home/apt,2020,1078,216,4,266,5,76
+verified,Queens,Woodside,40.74,-73.91,TRUE,strict,Private room,2013,53,11,2,251,4,412
+unconfirmed,Brooklyn,Clinton Hill,40.69,-73.96,FALSE,strict,Entire home/apt,2006,194,39,14,3,3,358
+unconfirmed,Manhattan,Harlem,40.83,-73.94,FALSE,strict,Private room,2012,876,175,7,8,2,212
+verified,Brooklyn,South Slope,40.67,-73.98,TRUE,moderate,Private room,2005,118,24,4,5,5,59
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,FALSE,strict,Private room,2016,407,81,4,160,5,123
+unconfirmed,Queens,Rego Park,40.73,-73.86,FALSE,flexible,Entire home/apt,2006,697,139,5,5,1,229
+verified,Manhattan,Chelsea,40.74,-73.99,TRUE,flexible,Private room,2021,55,11,2,183,1,375
+verified,Brooklyn,South Slope,40.66,-73.98,FALSE,strict,Entire home/apt,2014,846,169,5,19,3,365
+verified,Manhattan,East Village,40.73,-73.98,FALSE,strict,Entire home/apt,2006,715,143,3,141,2,370
+unconfirmed,Manhattan,Chelsea,40.75,-74.01,TRUE,flexible,Entire home/apt,2006,1030,206,6,42,3,9
+verified,Bronx,Concourse,40.83,-73.92,FALSE,strict,Entire home/apt,2006,665,133,3,119,1,70
+verified,Brooklyn,Greenpoint,40.73,-73.96,FALSE,moderate,Entire home/apt,2021,412,82,7,20,1,206
+verified,Manhattan,Nolita,40.72,-74,TRUE,strict,Entire home/apt,2018,585,117,5,5,2,217
+unconfirmed,Manhattan,East Harlem,40.81,-73.94,TRUE,flexible,Private room,2004,534,107,2,16,4,303
+unconfirmed,Manhattan,Harlem,40.81,-73.94,FALSE,moderate,Entire home/apt,2004,367,73,2,24,3,215
+verified,Manhattan,Flatiron District,40.74,-73.98,TRUE,strict,Entire home/apt,2017,118,24,3,26,1,210
+verified,Manhattan,Upper East Side,40.78,-73.95,FALSE,moderate,Private room,2015,578,116,30,3,1,-3
+verified,Brooklyn,Sunset Park,40.66,-73.99,TRUE,flexible,Private room,2008,809,162,10,5,4,205
+unconfirmed,Manhattan,Upper West Side,40.78,-73.98,TRUE,moderate,Entire home/apt,2005,885,177,4,2,3,339
+verified,Manhattan,Harlem,40.81,-73.95,TRUE,flexible,Entire home/apt,2017,729,146,3,194,2,81
+unconfirmed,Manhattan,Upper West Side,40.78,-73.98,TRUE,strict,Private room,2015,660,132,14,88,1,337
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.95,TRUE,flexible,Entire home/apt,2003,435,87,5,2,2,213
+verified,Queens,Astoria,40.76,-73.92,FALSE,moderate,Private room,2014,486,97,30,304,2,267
+verified,Brooklyn,Williamsburg,40.71,-73.97,FALSE,flexible,Entire home/apt,2021,753,151,2,11,3,10
+verified,Manhattan,Greenwich Village,40.73,-74,FALSE,strict,Entire home/apt,2004,556,111,30,19,3,279
+verified,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,TRUE,strict,Entire home/apt,2014,406,81,7,23,2,387
+unconfirmed,Manhattan,Greenwich Village,40.73,-74,TRUE,strict,Private room,2005,1173,235,5,103,5,36
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,moderate,Entire home/apt,2004,1190,238,7,82,4,217
+unconfirmed,Manhattan,Nolita,40.72,-73.99,TRUE,strict,Entire home/apt,2003,453,91,30,92,1,385
+verified,Manhattan,East Village,40.73,-73.98,TRUE,flexible,Entire home/apt,2011,556,111,30,66,1,77
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,FALSE,flexible,Entire home/apt,2020,666,133,3,18,3,247
+verified,Manhattan,Chelsea,40.74,-74,FALSE,flexible,Entire home/apt,2006,628,126,4,153,2,305
+verified,Manhattan,Chelsea,40.75,-74,FALSE,flexible,Entire home/apt,2015,153,31,6,6,2,85
+verified,Brooklyn,Prospect Heights,40.67,-73.97,FALSE,flexible,Private room,2022,323,65,7,43,3,222
+verified,Manhattan,Upper West Side,40.79,-73.97,TRUE,moderate,Entire home/apt,2019,573,115,3,36,2,331
+verified,Brooklyn,Bushwick,40.7,-73.91,TRUE,moderate,Private room,2003,217,43,10,19,3,181
+verified,Manhattan,East Village,40.73,-73.98,TRUE,strict,Entire home/apt,2017,535,107,2,160,1,34
+unconfirmed,Queens,Astoria,40.76,-73.92,TRUE,moderate,Entire home/apt,2021,947,189,3,74,1,28
+unconfirmed,Manhattan,Washington Heights,40.83,-73.94,TRUE,strict,Entire home/apt,2007,1014,203,1,47,2,241
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,strict,Entire home/apt,2014,367,73,2,43,3,237
+unconfirmed,Manhattan,Harlem,40.82,-73.95,TRUE,moderate,Entire home/apt,2007,272,54,1,102,5,400
+verified,Manhattan,Little Italy,40.72,-74,TRUE,strict,Private room,2009,978,196,6,18,1,338
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.96,TRUE,strict,Entire home/apt,2022,660,132,4,33,2,27
+verified,Manhattan,East Village,40.73,-73.98,TRUE,strict,Entire home/apt,2019,366,73,30,60,3,224
+verified,Manhattan,Hell's Kitchen,40.76,-73.99,FALSE,moderate,Entire home/apt,2012,798,160,3,22,2,369
+verified,Queens,Ridgewood,40.71,-73.92,TRUE,strict,Entire home/apt,2010,849,170,5,107,1,20
+verified,Manhattan,Greenwich Village,40.73,-74,TRUE,flexible,Private room,2011,407,81,4,87,2,41
+unconfirmed,Manhattan,Upper East Side,40.77,-73.95,TRUE,strict,Entire home/apt,2022,514,103,10,16,1,259
+verified,Brooklyn,Clinton Hill,40.69,-73.97,TRUE,flexible,Private room,2021,942,188,3,2,2,232
+unconfirmed,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.95,FALSE,moderate,Private room,2018,643,129,4,19,5,119
+unconfirmed,Queens,Flushing,40.76,-73.82,FALSE,strict,Private room,2006,919,184,1,474,5,355
+unconfirmed,Brooklyn,Brooklyn Heights,40.69,-73.99,TRUE,strict,Entire home/apt,2012,655,131,4,5,2,125
+unconfirmed,Manhattan,Financial District,40.71,-74.02,FALSE,strict,Entire home/apt,2018,300,60,2,63,1,28
+unconfirmed,Brooklyn,Clinton Hill,40.69,-73.97,TRUE,flexible,Entire home/apt,2009,669,134,3,28,3,191
+unconfirmed,Manhattan,East Village,40.73,-73.98,TRUE,moderate,Entire home/apt,2015,709,142,2,5,4,214
+verified,Manhattan,Upper East Side,40.78,-73.95,TRUE,moderate,Entire home/apt,2012,1127,225,4,16,1,260
+unconfirmed,Brooklyn,Windsor Terrace,40.66,-73.98,FALSE,moderate,Private room,2022,98,20,20,6,5,339
+unconfirmed,Manhattan,Upper West Side,40.8,-73.97,FALSE,strict,Entire home/apt,2010,922,184,3,25,2,24
+verified,Manhattan,Chelsea,40.75,-73.99,FALSE,moderate,Entire home/apt,2013,66,13,3,15,3,112
+unconfirmed,Manhattan,Lower East Side,40.72,-73.99,FALSE,flexible,Entire home/apt,2022,781,156,1,45,1,276
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.94,FALSE,strict,Entire home/apt,2006,622,124,1,215,1,379
+verified,Manhattan,Harlem,40.82,-73.95,TRUE,flexible,Entire home/apt,2016,948,190,3,33,4,240
+verified,Brooklyn,Prospect Heights,40.68,-73.97,TRUE,moderate,Entire home/apt,2011,437,87,2,46,2,223
+unconfirmed,Manhattan,Inwood,40.87,-73.92,TRUE,moderate,Entire home/apt,2016,986,197,10,25,5,207
+unconfirmed,Brooklyn,Park Slope,40.68,-73.98,FALSE,strict,Private room,2012,612,122,2,23,2,353
+unconfirmed,Brooklyn,Gowanus,40.68,-73.98,FALSE,strict,Entire home/apt,2016,972,194,2,57,5,356
+unconfirmed,Manhattan,East Village,40.73,-73.98,TRUE,strict,Private room,2017,206,41,6,80,2,104
+unconfirmed,Brooklyn,Greenpoint,40.72,-73.95,FALSE,strict,Entire home/apt,2021,248,50,11,22,1,17
+verified,Brooklyn,Greenpoint,40.73,-73.94,FALSE,strict,Entire home/apt,2006,769,154,5,40,5,139
+verified,Manhattan,East Village,40.72,-73.98,FALSE,strict,Entire home/apt,2009,145,29,3,85,2,330
+unconfirmed,Brooklyn,Carroll Gardens,40.68,-73.99,FALSE,flexible,Entire home/apt,2004,724,145,4,1,4,147
+unconfirmed,Manhattan,West Village,40.74,-74,FALSE,strict,Entire home/apt,2003,1018,204,14,29,5,143
+unconfirmed,Manhattan,Greenwich Village,40.73,-74,FALSE,strict,Entire home/apt,2012,110,22,5,1,3,256
+unconfirmed,Manhattan,Upper West Side,40.8,-73.97,FALSE,strict,Entire home/apt,2016,1154,231,30,23,5,38
+verified,Manhattan,Chelsea,40.74,-74,FALSE,strict,Private room,2017,580,116,2,42,4,400
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,FALSE,flexible,Entire home/apt,2003,954,191,1,195,4,307
+verified,Manhattan,Upper West Side,40.8,-73.96,TRUE,moderate,Shared room,2009,695,139,2,158,2,282
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,TRUE,flexible,Private room,2003,498,100,2,1,5,104
+verified,Manhattan,East Village,40.73,-73.98,FALSE,strict,Private room,2007,80,16,1,115,5,64
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,FALSE,strict,Entire home/apt,2010,419,84,4,42,3,220
+verified,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,FALSE,flexible,Entire home/apt,2015,128,26,5,3,2,231
+unconfirmed,Brooklyn,Bushwick,40.71,-73.92,FALSE,strict,Entire home/apt,2007,164,33,90,32,1,108
+unconfirmed,Brooklyn,Bushwick,40.7,-73.92,FALSE,strict,Entire home/apt,2011,1179,236,370,6,5,166
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,flexible,Entire home/apt,2010,642,128,2,214,2,272
+verified,Brooklyn,Fort Greene,40.69,-73.98,TRUE,flexible,Entire home/apt,2021,951,190,2,11,2,341
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.94,FALSE,strict,Entire home/apt,2006,75,15,2,221,1,159
+verified,Manhattan,Upper West Side,40.8,-73.97,FALSE,flexible,Entire home/apt,2008,597,119,4,4,2,203
+verified,Queens,Ditmars Steinway,40.77,-73.9,FALSE,flexible,Entire home/apt,2018,805,161,45,198,5,159
+verified,Manhattan,East Village,40.73,-73.98,TRUE,flexible,Entire home/apt,2021,338,68,5,6,1,26
+verified,Brooklyn,Crown Heights,40.68,-73.95,FALSE,strict,Private room,2016,130,26,7,10,4,268
+unconfirmed,Manhattan,Chinatown,40.71,-73.99,TRUE,moderate,Private room,2014,1033,207,19,30,5,250
+verified,Brooklyn,Park Slope,40.67,-73.98,FALSE,moderate,Entire home/apt,2018,521,104,2,4,5,313
+unconfirmed,Brooklyn,South Slope,40.66,-73.98,FALSE,strict,Private room,2009,818,164,2,201,3,203
+verified,Manhattan,East Harlem,40.79,-73.95,TRUE,strict,Private room,2014,376,75,2,51,2,39
+verified,Brooklyn,Clinton Hill,40.68,-73.97,TRUE,moderate,Entire home/apt,2012,293,59,30,63,4,259
+unconfirmed,Brooklyn,Greenpoint,40.73,-73.95,FALSE,strict,Private room,2009,1014,203,2,28,1,345
+unconfirmed,Queens,Arverne,40.6,-73.8,TRUE,flexible,Entire home/apt,2007,165,33,1,55,2,23
+unconfirmed,Brooklyn,Greenpoint,40.72,-73.95,TRUE,strict,Private room,2006,808,162,5,1,2,370
+verified,Queens,Astoria,40.77,-73.92,FALSE,flexible,Private room,2014,839,168,40,23,4,409
+verified,Brooklyn,Carroll Gardens,40.68,-73.99,TRUE,flexible,Entire home/apt,2015,586,117,4,61,5,154
+verified,Manhattan,East Village,40.72,-73.98,TRUE,moderate,Entire home/apt,2020,398,80,60,5,5,359
+unconfirmed,Manhattan,Hell's Kitchen,40.77,-73.99,FALSE,strict,Private room,2018,227,45,2,67,5,162
+verified,Manhattan,Greenwich Village,40.73,-74,FALSE,flexible,Entire home/apt,2013,384,77,30,110,4,-6
+unconfirmed,Brooklyn,Crown Heights,40.68,-73.96,TRUE,strict,Entire home/apt,2009,949,190,2,160,4,206
+verified,Brooklyn,Greenpoint,40.73,-73.95,FALSE,moderate,Entire home/apt,2018,137,27,3,102,1,196
+verified,Brooklyn,Crown Heights,40.68,-73.94,FALSE,strict,Private room,2016,801,160,2,5,1,22
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,TRUE,flexible,Private room,2007,678,136,5,1,4,231
+unconfirmed,Manhattan,West Village,40.73,-74,TRUE,strict,Entire home/apt,2021,439,88,7,34,1,206
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.96,FALSE,strict,Entire home/apt,2005,974,195,30,6,1,71
+unconfirmed,Brooklyn,Gravesend,40.6,-73.97,TRUE,moderate,Private room,2004,147,29,1,61,2,348
+unconfirmed,Manhattan,SoHo,40.72,-74,TRUE,strict,Entire home/apt,2003,192,38,60,11,4,154
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.95,TRUE,strict,Entire home/apt,2005,417,83,30,1,5,88
+verified,Manhattan,Harlem,40.81,-73.95,TRUE,moderate,Private room,2003,621,124,5,46,5,47
+unconfirmed,Manhattan,SoHo,40.72,-74,FALSE,flexible,Private room,2010,1155,231,1,132,4,411
+unconfirmed,Manhattan,Tribeca,40.72,-74.01,FALSE,moderate,Private room,2006,132,26,1,62,4,99
+verified,Brooklyn,Brooklyn Heights,40.69,-74,FALSE,moderate,Entire home/apt,2005,547,109,10,8,3,327
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,FALSE,flexible,Entire home/apt,2004,358,72,3,16,2,125
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,FALSE,strict,Private room,2012,619,124,2,19,1,5
+verified,Queens,Ridgewood,40.7,-73.91,FALSE,moderate,Entire home/apt,2022,1043,209,2,17,1,165
+verified,Manhattan,Upper East Side,40.77,-73.95,FALSE,moderate,Entire home/apt,2008,649,130,7,12,5,212
+verified,Manhattan,Murray Hill,40.75,-73.98,TRUE,strict,Entire home/apt,2011,572,114,1,321,1,348
+verified,Manhattan,Inwood,40.86,-73.92,FALSE,moderate,Private room,2010,180,36,4,160,2,198
+unconfirmed,Manhattan,Inwood,40.86,-73.92,TRUE,moderate,Private room,2016,1198,240,4,142,4,275
+verified,Manhattan,West Village,40.73,-74,TRUE,moderate,Entire home/apt,2003,332,66,1,5,3,367
+verified,Manhattan,Chelsea,40.74,-74,FALSE,flexible,Entire home/apt,2003,693,139,6,61,1,234
+verified,Brooklyn,Williamsburg,40.71,-73.95,TRUE,flexible,Private room,2019,855,171,3,5,2,193
+verified,Manhattan,Washington Heights,40.83,-73.95,FALSE,strict,Private room,2015,302,60,30,36,3,232
+unconfirmed,Brooklyn,Brooklyn Heights,40.69,-73.99,TRUE,strict,Entire home/apt,2006,1068,214,1,109,1,191
+unconfirmed,Queens,Sunnyside,40.74,-73.92,TRUE,flexible,Private room,2021,383,77,3,28,2,348
+unconfirmed,Brooklyn,Park Slope,40.67,-73.98,TRUE,moderate,Entire home/apt,2015,383,77,4,14,2,213
+verified,Brooklyn,Williamsburg,40.72,-73.95,FALSE,strict,Entire home/apt,2017,927,185,2,250,5,141
+verified,Manhattan,Upper West Side,40.78,-73.98,FALSE,strict,Entire home/apt,2004,756,151,4,12,5,1
+unconfirmed,Brooklyn,Clinton Hill,40.69,-73.97,TRUE,moderate,Entire home/apt,2005,276,55,2,20,5,372
+unconfirmed,Brooklyn,Williamsburg,40.7,-73.96,FALSE,flexible,Entire home/apt,2019,395,79,14,27,3,128
+verified,Manhattan,Upper West Side,40.77,-73.98,TRUE,strict,Private room,2004,941,188,20,107,2,271
+unconfirmed,Brooklyn,Prospect Heights,40.67,-73.96,FALSE,moderate,Entire home/apt,2013,1000,200,5,7,2,271
+unconfirmed,Queens,Elmhurst,40.74,-73.88,TRUE,strict,Entire home/apt,2017,453,91,3,48,3,121
+verified,Brooklyn,Bushwick,40.7,-73.92,TRUE,strict,Entire home/apt,2005,978,196,3,54,2,167
+unconfirmed,Brooklyn,Bushwick,40.71,-73.92,FALSE,strict,Entire home/apt,2020,1038,208,31,17,5,46
+verified,Brooklyn,Gowanus,40.67,-74,TRUE,flexible,Entire home/apt,2013,624,125,2,103,1,31
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,moderate,Entire home/apt,2005,67,13,3,243,4,326
+verified,Manhattan,Upper West Side,40.79,-73.97,FALSE,strict,Private room,2010,596,119,3,93,3,292
+unconfirmed,Manhattan,Harlem,40.82,-73.95,FALSE,moderate,Entire home/apt,2011,483,97,2,54,4,158
+unconfirmed,Manhattan,Tribeca,40.72,-74.01,TRUE,strict,Entire home/apt,2006,486,97,30,2,5,397
+unconfirmed,Brooklyn,Cypress Hills,40.68,-73.87,TRUE,flexible,Private room,2017,1053,211,28,88,2,12
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.94,TRUE,moderate,Entire home/apt,2012,57,11,30,15,5,173
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.96,FALSE,moderate,Entire home/apt,2014,851,170,3,25,3,130
+unconfirmed,Brooklyn,Prospect Heights,40.68,-73.97,TRUE,strict,Entire home/apt,2022,931,186,4,11,1,86
+verified,Brooklyn,Williamsburg,40.71,-73.95,FALSE,flexible,Private room,2008,1151,230,30,17,2,30
+verified,Brooklyn,Bedford-Stuyvesant,40.68,-73.94,TRUE,moderate,Private room,2011,260,52,3,5,3,110
+verified,Manhattan,Hell's Kitchen,40.77,-73.99,FALSE,flexible,Private room,2013,428,86,2,28,1,117
+unconfirmed,Manhattan,Kips Bay,40.74,-73.98,FALSE,strict,Entire home/apt,2008,927,185,30,8,2,318
+unconfirmed,Manhattan,Harlem,40.8,-73.95,FALSE,flexible,Entire home/apt,2016,1027,205,2,15,5,331
+verified,Brooklyn,Williamsburg,40.71,-73.94,TRUE,moderate,Entire home/apt,2021,907,181,3,2,3,31
+unconfirmed,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.96,TRUE,flexible,Entire home/apt,2005,926,185,4,40,4,257
+unconfirmed,Manhattan,East Village,40.73,-73.99,TRUE,flexible,Entire home/apt,2004,742,148,7,57,2,227
+unconfirmed,Manhattan,Harlem,40.8,-73.96,FALSE,moderate,Entire home/apt,2009,1069,214,14,6,1,143
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,flexible,Entire home/apt,2008,94,19,4,57,1,340
+verified,Brooklyn,Fort Greene,40.69,-73.97,FALSE,strict,Entire home/apt,2017,157,31,3,22,2,409
+verified,Manhattan,Gramercy,40.73,-73.98,FALSE,strict,Entire home/apt,2015,670,134,8,6,2,197
+unconfirmed,Manhattan,East Village,40.73,-73.99,TRUE,flexible,Entire home/apt,2004,1177,235,1,17,1,224
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.94,FALSE,moderate,Private room,2013,879,176,2,14,3,290
+unconfirmed,Manhattan,Upper East Side,40.78,-73.95,TRUE,flexible,Private room,2016,59,12,1,160,5,121
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,TRUE,strict,Entire home/apt,2017,631,126,2,85,4,86
+verified,Queens,Long Island City,40.75,-73.95,FALSE,flexible,Private room,2018,861,172,1,165,5,-5
+unconfirmed,Manhattan,SoHo,40.73,-74,FALSE,moderate,Shared room,2018,1166,233,2,13,2,212
+unconfirmed,Manhattan,Upper West Side,40.77,-73.99,FALSE,flexible,Entire home/apt,2019,1048,210,30,44,1,95
+verified,Manhattan,Greenwich Village,40.73,-74,FALSE,strict,Entire home/apt,2008,878,176,4,51,5,299
+verified,Brooklyn,Williamsburg,40.72,-73.96,TRUE,flexible,Entire home/apt,2003,789,158,2,179,5,355
+verified,Brooklyn,Windsor Terrace,40.65,-73.97,FALSE,moderate,Private room,2018,165,33,2,206,3,198
+verified,Manhattan,West Village,40.73,-74.01,TRUE,flexible,Entire home/apt,2010,881,176,5,4,5,277
+verified,Brooklyn,Bushwick,40.7,-73.92,TRUE,moderate,Private room,2008,353,71,14,2,2,255
+unconfirmed,Queens,Sunnyside,40.74,-73.92,FALSE,strict,Private room,2004,281,56,3,1,1,-8
+unconfirmed,Manhattan,Nolita,40.72,-73.99,FALSE,strict,Entire home/apt,2009,717,143,4,2,2,154
+unconfirmed,Brooklyn,Crown Heights,40.68,-73.96,FALSE,strict,Entire home/apt,2004,1079,216,5,3,3,400
+verified,Manhattan,Upper West Side,40.8,-73.96,FALSE,strict,Private room,2018,649,130,2,19,5,201
+verified,Staten Island,Tottenville,40.51,-74.24,TRUE,strict,Entire home/apt,2003,752,150,3,59,2,278
+unconfirmed,Manhattan,East Village,40.72,-73.99,FALSE,flexible,Entire home/apt,2017,813,163,6,1,5,122
+unconfirmed,Manhattan,West Village,40.74,-74,FALSE,strict,Entire home/apt,2009,502,100,5,1,2,297
+unconfirmed,Brooklyn,Cobble Hill,40.69,-73.99,FALSE,moderate,Private room,2010,497,99,3,254,4,405
+unconfirmed,Manhattan,East Harlem,40.8,-73.93,FALSE,flexible,Private room,2007,639,128,2,129,4,211
+verified,Manhattan,Hell's Kitchen,40.76,-74,FALSE,strict,Entire home/apt,2018,984,197,30,11,2,278
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,TRUE,flexible,Entire home/apt,2007,742,148,20,32,1,386
+unconfirmed,Manhattan,Upper West Side,40.78,-73.97,FALSE,flexible,Entire home/apt,2008,1152,230,5,8,1,333
+unconfirmed,Manhattan,Inwood,40.87,-73.92,TRUE,moderate,Private room,2015,754,151,2,261,5,292
+verified,Brooklyn,Williamsburg,40.72,-73.96,FALSE,strict,Private room,2008,1160,232,2,3,2,285
+verified,Staten Island,Tompkinsville,40.63,-74.08,FALSE,strict,Private room,2015,247,49,2,23,2,345
+unconfirmed,Manhattan,Harlem,40.82,-73.95,TRUE,strict,Entire home/apt,2021,688,138,5,108,5,107
+verified,Manhattan,Harlem,40.82,-73.94,TRUE,strict,Private room,2010,1070,214,3,9,1,134
+verified,Manhattan,Hell's Kitchen,40.76,-73.99,TRUE,strict,Private room,2012,547,109,2,248,4,315
+verified,Queens,Astoria,40.76,-73.92,FALSE,flexible,Private room,2019,606,121,4,107,1,306
+verified,Manhattan,Midtown,40.75,-73.98,FALSE,moderate,Private room,2011,477,95,3,41,5,294
+unconfirmed,Manhattan,Nolita,40.72,-73.99,FALSE,strict,Entire home/apt,2007,715,143,4,43,2,248
+unconfirmed,Manhattan,Harlem,40.83,-73.95,FALSE,flexible,Private room,2005,443,89,3,39,1,348
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.7,-73.96,TRUE,moderate,Shared room,2019,634,127,4,31,5,221
+verified,Brooklyn,Williamsburg,40.71,-73.97,TRUE,flexible,Private room,2022,354,71,6,6,1,7
+unconfirmed,Brooklyn,Prospect Heights,40.68,-73.97,TRUE,flexible,Entire home/apt,2022,941,188,3,18,5,55
+verified,Manhattan,NoHo,40.73,-73.99,TRUE,strict,Entire home/apt,2021,987,197,20,29,1,15
+unconfirmed,Manhattan,East Village,40.73,-73.99,FALSE,flexible,Entire home/apt,2020,920,184,1,11,2,125
+verified,Manhattan,Gramercy,40.74,-73.98,FALSE,flexible,Private room,2022,1007,201,4,161,5,45
+verified,Brooklyn,Williamsburg,40.71,-73.97,FALSE,flexible,Entire home/apt,2007,351,70,1,39,3,133
+unconfirmed,Brooklyn,Crown Heights,40.67,-73.93,FALSE,strict,Entire home/apt,2006,92,18,7,2,5,287
+verified,Manhattan,SoHo,40.72,-74,FALSE,flexible,Entire home/apt,2022,492,98,5,59,1,233
+unconfirmed,Manhattan,Gramercy,40.73,-73.98,FALSE,flexible,Private room,2009,686,137,1,323,4,181
+verified,Manhattan,Upper West Side,40.77,-73.98,FALSE,moderate,Entire home/apt,2011,118,24,30,1,1,146
+unconfirmed,Manhattan,Upper West Side,40.78,-73.98,FALSE,strict,Entire home/apt,2013,777,155,3,58,1,-9
+verified,Manhattan,East Village,40.72,-73.98,TRUE,strict,Entire home/apt,2004,981,196,3,10,5,168
+verified,Manhattan,Hell's Kitchen,40.77,-73.99,TRUE,moderate,Entire home/apt,2016,746,149,2,83,2,253
+verified,Manhattan,Chinatown,40.72,-73.99,FALSE,strict,Entire home/apt,2005,393,79,4,12,4,282
+verified,Brooklyn,Crown Heights,40.68,-73.95,TRUE,moderate,Entire home/apt,2005,929,186,3,1,2,235
+verified,Manhattan,Midtown,40.76,-73.97,TRUE,moderate,Entire home/apt,2011,653,131,7,10,1,-1
+unconfirmed,Brooklyn,Kensington,40.65,-73.98,FALSE,flexible,Private room,2021,234,47,1,48,4,104
+verified,Manhattan,West Village,40.74,-74,FALSE,moderate,Entire home/apt,2020,868,174,16,5,2,217
+unconfirmed,Brooklyn,Columbia St,40.69,-74,TRUE,strict,Entire home/apt,2011,703,141,3,15,3,224
+verified,Manhattan,Upper East Side,40.78,-73.95,FALSE,strict,Private room,2021,302,60,1,347,3,300
+verified,Manhattan,Upper West Side,40.78,-73.98,TRUE,strict,Entire home/apt,2014,400,80,1,108,1,330
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,TRUE,flexible,Entire home/apt,2020,1173,235,3,163,4,174
+verified,Manhattan,Gramercy,40.73,-73.99,TRUE,flexible,Entire home/apt,2010,235,47,3,182,1,364
+unconfirmed,Manhattan,East Harlem,40.8,-73.94,TRUE,strict,Private room,2012,1160,232,1,37,5,423
+verified,Queens,Ridgewood,40.7,-73.9,FALSE,strict,Private room,2004,1047,209,1,30,1,142
+verified,Brooklyn,Williamsburg,40.71,-73.94,FALSE,strict,Private room,2003,107,21,60,3,3,273
+verified,Manhattan,Hell's Kitchen,40.76,-74,TRUE,moderate,Entire home/apt,2005,847,169,3,46,4,51
+verified,Brooklyn,Williamsburg,40.7,-73.95,FALSE,strict,Entire home/apt,2007,766,153,2,211,3,364
+verified,Manhattan,Upper West Side,40.79,-73.97,TRUE,moderate,Private room,2016,619,124,1,93,1,377
+verified,Manhattan,Chelsea,40.74,-74,FALSE,moderate,Entire home/apt,2009,336,67,2,10,1,341
+verified,Manhattan,Kips Bay,40.74,-73.98,FALSE,strict,Entire home/apt,2015,59,12,4,72,4,138
+unconfirmed,Manhattan,Upper West Side,40.78,-73.99,FALSE,moderate,Entire home/apt,2018,1004,201,30,59,5,87
+unconfirmed,Manhattan,Hell's Kitchen,40.76,-73.99,FALSE,strict,Entire home/apt,2007,163,33,2,18,1,56
+verified,Manhattan,East Village,40.73,-73.98,FALSE,flexible,Private room,2004,1152,230,5,6,5,62
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,TRUE,strict,Entire home/apt,2004,232,46,31,15,3,137
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,TRUE,flexible,Entire home/apt,2009,468,94,4,78,5,18
+unconfirmed,Manhattan,Chelsea,40.74,-74,TRUE,moderate,Entire home/apt,2022,554,111,3,17,2,407
+unconfirmed,Brooklyn,Flatbush,40.65,-73.96,TRUE,moderate,Entire home/apt,2011,1007,201,4,15,3,119
+verified,Manhattan,Inwood,40.86,-73.93,FALSE,moderate,Private room,2021,212,42,7,1,5,84
+unconfirmed,Brooklyn,Bushwick,40.69,-73.92,FALSE,moderate,Private room,2022,698,140,5,69,1,264
+verified,Brooklyn,Gowanus,40.68,-73.98,TRUE,flexible,Entire home/apt,2011,1172,234,31,114,3,131
+verified,Manhattan,East Harlem,40.8,-73.95,FALSE,flexible,Private room,2017,556,111,3,161,3,-9
+verified,Brooklyn,Bushwick,40.69,-73.92,FALSE,flexible,Private room,2015,585,117,5,70,2,177
+verified,Manhattan,Upper East Side,40.77,-73.95,FALSE,flexible,Entire home/apt,2007,99,20,2,46,4,131
+unconfirmed,Brooklyn,Fort Greene,40.68,-73.97,TRUE,strict,Entire home/apt,2010,1015,203,5,19,2,184
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.96,TRUE,strict,Entire home/apt,2008,572,114,3,162,3,208
+verified,Brooklyn,Canarsie,40.63,-73.9,TRUE,flexible,Private room,2006,173,35,2,70,2,179
+verified,Queens,Ridgewood,40.71,-73.9,FALSE,flexible,Private room,2006,303,61,14,11,5,158
+unconfirmed,Manhattan,West Village,40.73,-74,FALSE,flexible,Private room,2004,690,138,2,2,2,24
+unconfirmed,Manhattan,Kips Bay,40.74,-73.98,FALSE,strict,Private room,2007,564,113,5,39,5,422
+unconfirmed,Queens,Jamaica,40.67,-73.77,TRUE,flexible,Private room,2011,577,115,2,56,5,284
+unconfirmed,Queens,Ditmars Steinway,40.78,-73.92,TRUE,moderate,Entire home/apt,2005,211,42,3,1,3,100
+verified,Queens,Astoria,40.77,-73.93,TRUE,moderate,Private room,2011,686,137,2,35,2,278
+verified,Manhattan,Lower East Side,40.72,-73.99,FALSE,strict,Private room,2006,1125,225,5,32,2,190
+verified,Queens,Ridgewood,40.71,-73.92,FALSE,flexible,Private room,2009,607,121,2,1,1,340
+verified,Manhattan,Harlem,40.81,-73.94,FALSE,moderate,Entire home/apt,2003,558,112,21,12,1,222
+unconfirmed,Manhattan,Upper West Side,40.8,-73.96,FALSE,strict,Private room,2018,628,126,2,211,4,178
+verified,Staten Island,Mariners Harbor,40.63,-74.16,FALSE,strict,Private room,2009,130,26,2,48,1,164
+verified,Brooklyn,Flatlands,40.62,-73.93,FALSE,moderate,Entire home/apt,2008,298,60,2,219,5,142
+verified,Manhattan,East Harlem,40.79,-73.95,TRUE,moderate,Private room,2004,1120,224,3,218,2,364
+unconfirmed,Manhattan,Chelsea,40.75,-74,FALSE,strict,Entire home/apt,2004,281,56,6,40,1,62
+unconfirmed,Manhattan,West Village,40.73,-74,FALSE,moderate,Entire home/apt,2007,600,120,14,37,3,-3
+verified,Queens,Long Island City,40.75,-73.95,FALSE,strict,Private room,2018,1119,224,20,28,2,136
+verified,Manhattan,Harlem,40.8,-73.96,FALSE,strict,Private room,2011,771,154,3,66,4,368
+verified,Manhattan,Murray Hill,40.75,-73.98,FALSE,strict,Entire home/apt,2010,699,140,30,43,3,128
+verified,Manhattan,Murray Hill,40.75,-73.98,FALSE,moderate,Entire home/apt,2011,254,51,30,9,3,118
+unconfirmed,Brooklyn,East New York,40.68,-73.89,TRUE,flexible,Private room,2006,443,89,3,13,5,400
+unconfirmed,Manhattan,Upper East Side,40.78,-73.95,FALSE,strict,Private room,2004,547,109,1,60,1,121
+unconfirmed,Brooklyn,Clinton Hill,40.69,-73.96,TRUE,strict,Entire home/apt,2013,343,69,4,19,2,208
+unconfirmed,Queens,East Elmhurst,40.76,-73.9,TRUE,strict,Private room,2003,1127,225,1,296,4,282
+unconfirmed,Manhattan,Upper West Side,40.8,-73.97,FALSE,flexible,Private room,2003,103,21,1,96,2,62
+unconfirmed,Brooklyn,South Slope,40.66,-73.98,TRUE,moderate,Entire home/apt,2004,202,40,2,77,2,413
+unconfirmed,Brooklyn,Fort Greene,40.69,-73.97,FALSE,moderate,Entire home/apt,2017,958,192,1,115,5,118
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.94,TRUE,moderate,Entire home/apt,2008,866,173,1,294,1,322
+unconfirmed,Brooklyn,Crown Heights,40.68,-73.95,FALSE,moderate,Entire home/apt,2005,1046,209,3,66,1,55
+verified,Brooklyn,Williamsburg,40.71,-73.95,TRUE,moderate,Entire home/apt,2011,1107,221,7,4,1,313
+verified,Manhattan,East Village,40.73,-73.98,FALSE,moderate,Entire home/apt,2008,983,197,3,39,2,200
+unconfirmed,Brooklyn,Park Slope,40.68,-73.98,FALSE,moderate,Entire home/apt,2010,1032,206,4,173,1,105
+unconfirmed,Brooklyn,Bushwick,40.68,-73.91,TRUE,strict,Private room,2010,495,99,2,295,2,372
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,TRUE,strict,Entire home/apt,2021,650,130,4,62,3,261
+unconfirmed,Brooklyn,Bushwick,40.7,-73.92,FALSE,strict,Private room,2012,95,19,2,138,4,163
+unconfirmed,Manhattan,Upper West Side,40.78,-73.98,TRUE,strict,Entire home/apt,2005,1197,239,30,27,5,46
+unconfirmed,Manhattan,East Village,40.73,-73.98,FALSE,flexible,Entire home/apt,2014,606,121,30,96,2,7
+verified,Brooklyn,Fort Greene,40.69,-73.97,FALSE,flexible,Entire home/apt,2010,1164,233,2,119,5,393
+verified,Brooklyn,Bedford-Stuyvesant,40.69,-73.95,FALSE,strict,Private room,2018,86,17,5,8,2,265
+unconfirmed,Manhattan,East Village,40.72,-73.98,FALSE,strict,Entire home/apt,2011,474,95,30,100,3,105
+unconfirmed,Brooklyn,Park Slope,40.67,-73.98,TRUE,strict,Entire home/apt,2013,1163,233,5,1,1,351
+unconfirmed,Brooklyn,Cobble Hill,40.69,-74,FALSE,moderate,Private room,2011,127,25,2,13,3,209
+verified,Brooklyn,Prospect Heights,40.68,-73.97,TRUE,flexible,Private room,2012,1165,233,4,190,5,272
+unconfirmed,Brooklyn,Williamsburg,40.71,-73.96,FALSE,moderate,Entire home/apt,2016,822,164,1,404,5,187
+verified,Manhattan,SoHo,40.73,-74,FALSE,flexible,Entire home/apt,2004,1064,213,2,27,5,3
+unconfirmed,Brooklyn,Bedford-Stuyvesant,40.69,-73.94,FALSE,flexible,Entire home/apt,2012,836,167,4,79,4,385
+verified,Brooklyn,Fort Greene,40.7,-73.98,FALSE,moderate,Private room,2006,1101,220,2,14,4,178
+verified,Brooklyn,Williamsburg,40.71,-73.95,TRUE,moderate,Private room,2019,403,81,3,32,1,38
+verified,Brooklyn,Park Slope,40.68,-73.98,TRUE,moderate,Entire home/apt,2022,641,128,3,76,1,1
+verified,Manhattan,Upper West Side,40.8,-73.98,TRUE,flexible,Entire home/apt,2021,469,94,1,7,3,331
+verified,Manhattan,East Village,40.72,-73.98,TRUE,flexible,Entire home/apt,2003,884,177,7,11,5,35
+unconfirmed,Brooklyn,Prospect-Lefferts Gardens,40.66,-73.95,TRUE,strict,Private room,2015,383,77,5,18,4,268
+verified,Queens,Woodside,40.75,-73.9,FALSE,flexible,Entire home/apt,2009,1044,209,3,60,3,167
+unconfirmed,Staten Island,Concord,40.6,-74.09,FALSE,flexible,Private room,2015,643,129,30,59,1,391
+unconfirmed,Brooklyn,Sunset Park,40.66,-73.99,TRUE,strict,Entire home/apt,2006,921,184,15,22,1,299
+unconfirmed,Brooklyn,Williamsburg,40.72,-73.95,TRUE,flexible,Private room,2010,474,95,3,2,4,131
+verified,Manhattan,East Village,40.73,-73.98,TRUE,strict,Entire home/apt,2009,634,127,7,104,2,68
+unconfirmed,Manhattan,Harlem,40.81,-73.95,TRUE,strict,Entire home/apt,2011,540,108,3,6,4,78
+verified,Manhattan,Upper West Side,40.8,-73.96,FALSE,moderate,Private room,2011,110,22,3,326,3,253
+verified,Queens,Jackson Heights,40.75,-73.88,FALSE,strict,Private room,2012,728,146,28,55,5,413
+unconfirmed,Manhattan,Lower East Side,40.72,-73.99,FALSE,flexible,Entire home/apt,2004,650,130,5,56,4,51
+verified,Brooklyn,Greenpoint,40.73,-73.95,FALSE,moderate,Entire home/apt,2012,264,53,3,51,4,339
+unconfirmed,Manhattan,Chelsea,40.74,-73.99,TRUE,flexible,Entire home/apt,2018,344,69,5,7,3,16
