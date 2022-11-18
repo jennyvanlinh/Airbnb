@@ -16,8 +16,6 @@ Step 2: Created the visualization
     - new-york-city-boroughs.geojson was used to create the base of NYC Map. The file was downloaded from [here](https://github.com/blackmad/neighborhoods/blob/master/new-york-city-boroughs.geojson).
     - Created bar chart on quantitative categories of the dataset
     - CSV files that were used for map.vg.json: Airbnb Boroughs in NYC.csv, Airbnb Data.csv, Airbnb.csv
-  - Created line chart of Airbnb listings construction year -> line.vg.json
-    - CSV files that were used for line.vg.json: Airbnb Data.csv
   - Created pie charts on nominal categories of the dataset -> pie.vg.json
     - CSV files that were used for pie.vg.json: Airbnb (Nominal).csv, Airbnb Policy.csv, Airbnb Room.csv
 - Created and edited the index.html file (template based on pure css grid)
