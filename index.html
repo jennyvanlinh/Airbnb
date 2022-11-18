@@ -55,17 +55,6 @@
             </p>
         </div>
         <div class="pure-u-1-1">
-          <h4>When do all these locations got built?</h4>
-          <p>The line chart below shows when all the locations in the data got built. 
-            According to our data, some of the places that are listed on Airbnb are have been constructed in 2003, before the company got founded.
-          </p>
-        </div>
-        <div class="pure-u-1-1">
-          <div class="description description-middle">
-            <div id="vis2" class="vis-container"></div>
-          </div>
-        </div>
-        <div class="pure-u-1-1">
           <h4>Comparisons of Airbnb listings in New York City based on services</h4>
             <p>The four pie charts below compares Airbnb listings throughout New York City
               based on four categories: Host identity verified, Instant book, Type of accommodations and 
@@ -112,8 +101,7 @@
 
     <script type="text/javascript">
       var specVis1 = "js/map.vg.json";
-      var specVis2 = "js/line.vg.json";
-      var specVis3 = "js/pie.vg.json";
+      var specVis2 = "js/pie.vg.json";
   
       vegaEmbed('#vis1', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
