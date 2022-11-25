@@ -21,5 +21,5 @@ Step 2: Created the visualization
 - Created and edited the index.html file (template based on pure css grid)
 - *css* folder
   - Created and edited styles.css
-- The visualization can be accessed [here](https://jennyvanlinh.github.io/Airbnb/).
+- The visualization can be accessed [here](https://jennyvanlinh.github.io/Airbnb2019/).
 
