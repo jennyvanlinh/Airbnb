@@ -1,0 +1,6 @@
+neighbourhood.group,avg_price,avg_service_fee,avg_minimum_nights,avg_number_of_reviews,avg_review_per_month,avg_review_rate_number,total_host_listing_count,avg_availability_per 365_days
+Brooklyn,627.30,125.46,7.30,34.59,1.32,3.28,74709,140.19
+Manhattan,622.71,124.54,9.13,30.20,1.29,3.29,378682,147.03
+Staten Island,616.78,123.36,5.61,40.27,1.73,3.43,1639,202.95
+Queens,629.34,125.87,6.55,38.81,1.82,3.35,64207,171.60
+Bronx,632.96,126.60,5.40,36.06,1.74,3.37,4943,189.82
