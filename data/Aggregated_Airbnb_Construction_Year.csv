@@ -1,6 +1,101 @@
-borough,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022
-Brooklyn,1350,1280,1370,1342,1320,1409,1337,1367,1360,1346,1296,1353,1393,1298,1397,1360,1395,1371,1275,1365
-Manhattan,1355,1330,1323,1409,1395,1404,1416,1373,1349,1362,1323,1404,1372,1394,1356,1398,1377,1299,1364,1302
-Staten Island,33,45,32,41,33,30,28,43,37,23,28,41,31,25,19,22,35,35,29,29
-Queens,451,445,442,488,438,446,419,435,443,450,433,406,411,418,428,425,445,459,455,456
-Bronx,106,97,80,95,85,80,81,86,97,96,77,100,78,98,83,95,82,103,89,105
+borough,year,number_of_airbnbs
+Brooklyn,2003,1350
+Brooklyn,2004,1280
+Brooklyn,2005,1370
+Brooklyn,2006,1342
+Brooklyn,2007,1320
+Brooklyn,2008,1409
+Brooklyn,2009,1337
+Brooklyn,2010,1367
+Brooklyn,2011,1360
+Brooklyn,2012,1346
+Brooklyn,2013,1296
+Brooklyn,2014,1353
+Brooklyn,2015,1393
+Brooklyn,2016,1298
+Brooklyn,2017,1397
+Brooklyn,2018,1360
+Brooklyn,2019,1395
+Brooklyn,2020,1371
+Brooklyn,2021,1275
+Brooklyn,2022,1365
+Manhattan,2003,1355
+Manhattan,2004,1330
+Manhattan,2005,1323
+Manhattan,2006,1409
+Manhattan,2007,1395
+Manhattan,2008,1404
+Manhattan,2009,1416
+Manhattan,2010,1373
+Manhattan,2011,1349
+Manhattan,2012,1362
+Manhattan,2013,1323
+Manhattan,2014,1404
+Manhattan,2015,1372
+Manhattan,2016,1394
+Manhattan,2017,1356
+Manhattan,2018,1398
+Manhattan,2019,1377
+Manhattan,2020,1299
+Manhattan,2021,1364
+Manhattan,2022,1302
+Staten Island,2003,33
+Staten Island,2004,45
+Staten Island,2005,32
+Staten Island,2006,41
+Staten Island,2007,33
+Staten Island,2008,30
+Staten Island,2009,28
+Staten Island,2010,43
+Staten Island,2011,37
+Staten Island,2012,23
+Staten Island,2013,28
+Staten Island,2014,41
+Staten Island,2015,31
+Staten Island,2016,25
+Staten Island,2017,19
+Staten Island,2018,22
+Staten Island,2019,35
+Staten Island,2020,35
+Staten Island,2021,29
+Staten Island,2022,29
+Queens,2003,451
+Queens,2004,445
+Queens,2005,442
+Queens,2006,488
+Queens,2007,438
+Queens,2008,446
+Queens,2009,419
+Queens,2010,435
+Queens,2011,443
+Queens,2012,450
+Queens,2013,433
+Queens,2014,406
+Queens,2015,411
+Queens,2016,418
+Queens,2017,428
+Queens,2018,425
+Queens,2019,445
+Queens,2020,459
+Queens,2021,455
+Queens,2022,456
+Bronx,2003,106
+Bronx,2004,97
+Bronx,2005,80
+Bronx,2006,95
+Bronx,2007,85
+Bronx,2008,80
+Bronx,2009,81
+Bronx,2010,86
+Bronx,2011,97
+Bronx,2012,96
+Bronx,2013,77
+Bronx,2014,100
+Bronx,2015,78
+Bronx,2016,98
+Bronx,2017,83
+Bronx,2018,95
+Bronx,2019,82
+Bronx,2020,103
+Bronx,2021,89
+Bronx,2022,105
