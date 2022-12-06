@@ -1,4 +1,4 @@
-neighbourhood.group,number_of_id,instant_bookable,not_instant_bookable
+borough,number_of_id,instant_bookable,not_instant_bookable
 Brooklyn,26984,13394,13590
 Manhattan,27305,13614,13691
 Staten Island,639,326,313
