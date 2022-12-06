@@ -1,4 +1,4 @@
-neighbourhood.group,number_of_id,entire_home_apt,private_room,shared_room
+borough,number_of_id,entire_home_apt,private_room,shared_room
 Brooklyn,26984,14183,12338,456
 Manhattan,27305,16578,10101,530
 Staten Island,639,337,297,5
