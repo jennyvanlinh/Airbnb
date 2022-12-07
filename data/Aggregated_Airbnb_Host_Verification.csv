@@ -1,16 +1,6 @@
-borough,host_verification_status,number_of_host
-Brooklyn,verified,13433
-Manhattan,verified,13662
-Staten Island,verified,306
-Queens,verified,4402
-Bronx,verified,881
-Brooklyn,unconfirmed,13489
-Manhattan,unconfirmed,13573
-Staten Island,unconfirmed,331
-Queens,unconfirmed,4370
-Bronx,unconfirmed,924
-Brooklyn,unknown,62
-Manhattan,unknown,70
-Staten Island,unknown,2
-Queens,unknown,21
-Bronx,unknown,8
+neighbourhood.group,number_of_id,host_verified,host_unconfirmed,host_verification_unknown
+Brooklyn,26984,13433,13489,62
+Manhattan,27305,13662,13573,70
+Staten Island,639,306,331,2
+Queens,8793,4402,4370,21
+Bronx,1813,881,924,8
