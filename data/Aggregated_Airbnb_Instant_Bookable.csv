@@ -1,6 +1,6 @@
-borough,number_of_id,instant_bookable,not_instant_bookable
-Brooklyn,26984,13394,13590
-Manhattan,27305,13614,13691
-Staten Island,639,326,313
-Queens,8793,4336,4457
-Bronx,1813,908,905
+borough,instant_bookable,not_instant_bookable
+Brooklyn,13394,13590
+Manhattan,13614,13691
+Staten Island,326,313
+Queens,4336,4457
+Bronx,908,905
