@@ -1,4 +1,4 @@
-borough,host_verification_status,host_verified
+borough,host_verification_status,number_of_host
 Brooklyn,verified,13433
 Manhattan,verified,13662
 Staten Island,verified,306
