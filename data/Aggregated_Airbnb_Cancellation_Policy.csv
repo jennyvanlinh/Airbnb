@@ -1,6 +1,6 @@
-borough,number_of_id,strict_cancellation,moderate_cancellation,flexible_cancellation
-Brooklyn,26984,9075,9017,8892
-Manhattan,27305,8977,9159,9169
-Staten Island,639,214,222,203
-Queens,8793,2923,2941,2929
-Bronx,1813,585,609,619
+borough,strict_cancellation,moderate_cancellation,flexible_cancellation
+Brooklyn,9075,9017,8892
+Manhattan,8977,9159,9169
+Staten Island,214,222,203
+Queens,2923,2941,2929
+Bronx,585,609,619
