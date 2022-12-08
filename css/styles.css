@@ -9,7 +9,7 @@ h1 {
 }
 
 body {
-    background-color: #FFEFEF;
+    background-color: white;
 }
 
 .vis-container {
@@ -35,7 +35,7 @@ h1 {
 
 .page {
     width: 850px;
-    background-color: #FFEFEF;
+    background-color: white;
     margin: auto;
     padding: 50px;
     padding-top: 35px;
