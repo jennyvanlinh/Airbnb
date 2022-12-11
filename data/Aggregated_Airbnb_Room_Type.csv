@@ -1,6 +1,4 @@
-borough,entire_home_apt,private_room,shared_room
-Brooklyn,14183,12338,456
-Manhattan,16578,10101,530
-Staten Island,337,297,5
-Queens,3595,4969,221
-Bronx,718,1029,66
+room_type,Brooklyn,Manhattan,Staten Island,Queens,Bronx
+entire_home_apt,14183,16578,337,3595,718
+private_room,12338,10101,297,4969,1029
+shared_room,456,530,5,221,66
