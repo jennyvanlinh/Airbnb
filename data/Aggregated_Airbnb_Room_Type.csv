@@ -1,9 +1,9 @@
 borough,room type,number of rooms
-Brooklyn,entire home apt,14183
-Manhattan,entire home apt,16578
-Staten Island,entire home apt,337
-Queens,entire home apt,3595
-Bronx,entire home apt,718
+Brooklyn,entire home/apt,14183
+Manhattan,entire home/apt,16578
+Staten Island,entire home/apt,337
+Queens,entire home/apt,3595
+Bronx,entire home/apt,718
 Brooklyn,private room,12338
 Manhattan,private room,10101
 Staten Island,private room,297
