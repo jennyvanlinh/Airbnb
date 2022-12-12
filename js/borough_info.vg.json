@@ -1,0 +1,514 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "hconcat": [
+    {
+      "title": {
+        "text": "New York City Map",
+        "fontSize": 14,
+        "color": "#FF5A5F"
+      },
+      "width": 700,
+      "height": 850,
+      "projection": {"type": "albersUsa"},
+      "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/js/Borough%20Boundaries.geojson",
+            "format": {"property": "features"}
+          },          
+          "transform": [
+            {
+              "lookup": "properties.boro_name",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Clean_Airbnb_Data.csv"
+                },
+                "key": "borough",
+                "fields": ["borough"]
+              }            
+            }
+          ],
+          "mark": {"type": "geoshape"},
+          "params": [
+            {
+              "name": "b_highlight",
+              "select": {"type": "point", "fields": ["borough"], "on": "click"},
+              "bind": "scales"
+            }
+          ],
+          "encoding": {
+            "color": {
+              "field": "borough", 
+              "type": "nominal",
+              "scale": {              
+                "range": ["#FF5A5F", "#C6017E", "#D51616", "#6F019C", "#900603"]
+              },
+              "legend": null
+            },
+            "fillOpacity": {
+              "condition": {
+                "param": "b_highlight"
+              },
+              "value": 0.1
+            }
+          }
+        },
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/js/2020%20Neighborhood%20Tabulation%20Areas%20(NTAs)%20-%20Tabular.geojson",
+            "format": {"property": "features"}
+          },
+          "transform": [
+            {
+              "lookup": "properties.boroname",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Clean_Airbnb_Data.csv"
+                },
+                "key": "borough",
+                "fields": ["borough", "neighbourhood"]
+              }      
+            },
+            {"filter": "datum.borough!=null && datum.neighbourhood!=null"}
+          ],
+          "mark": {
+            "type": "geoshape",
+            "stroke": "white"
+          },
+          "encoding": {
+            "color": {
+              "field": "borough",
+              "type": "nominal"
+
+            },
+            "fillOpacity": {
+              "condition": {
+                "param": "b_highlight"
+              },
+              "value": 0.1
+            },
+            "strokeOpacity": {
+              "condition": {
+                "param": "b_highlight"
+              },
+              "value": 0.1
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "vconcat": [
+        {
+          "hconcat": [
+            {
+              "title": {
+                "text": "General Airbnb info of each borough",
+                "color": "#FF5A5F",
+                "fontSize": 14,
+                "anchor": "middle"
+              },
+              "width": 200,
+              "height": 200,
+              "data": {
+                "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Aggregated_Airbnb_Quantitative_Values.csv"
+              },
+              "mark": {
+                "type": "bar", 
+                "tooltip": {
+                  "content": "data"
+                }
+              },
+              "encoding": {
+                "x": {
+                  "field": "borough",
+                  "type": "nominal",
+                  "axis": null,
+                  "sort": {
+                    "op": "sum", 
+                    "field": "number of places", 
+                    "order": "descending"
+                  }
+                },
+        
+                "y": {
+                  "field": "number of places",
+                  "type": "quantitative",
+                  "axis": {"tickCount":6},
+                  "scale": {
+                    "domain": [0,30000]
+                  }
+                },
+        
+                "color": {
+                  "field": "borough",
+                  "scale": {              
+                    "range": ["#FF5A5F", "#C6017E", "#D51616", "#6F019C", "#900603"]
+                  },
+                  "legend": null
+                },
+    
+                "fillOpacity": {
+                  "condition": {
+                    "param": "b_highlight"
+                  },
+                  "value": 0.1
+                },
+        
+                "tooltip": {
+                  "condition": {
+                    "param": "b_highlight"
+                  },
+                  "value": null
+                }
+              }
+            },
+    
+            {
+              "title": {
+                "text": "Construction year of listings",
+                "fontSize": 14,
+                "anchor": "middle",
+                "color": "#FF5A5F"
+              },
+              "width": 480,
+              "height": 200,
+              "data": {
+                "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Aggregated_Airbnb_Construction_Year.csv"
+              },
+              "encoding": {
+                "color": {
+                  "field": "borough",
+                  "type": "nominal"
+                },
+                "x": {
+                  "field": "year", 
+                  "type": "temporal", 
+                  "title": "construction year",
+                  "timeUnit": "year"
+                },
+    
+                "y": {
+                  "field": "number_of_airbnbs", 
+                  "type": "quantitative", 
+                  "title": "number of places"
+                },
+    
+                "opacity": {
+                  "condition": {
+                    "param": "b_highlight", 
+                    "value": 1
+                  },
+                  "value": 0.1
+                },
+        
+                "tooltip": {
+                  "condition": {
+                    "param": "b_highlight"                
+                  },
+                  "value": null
+                }
+              },
+              "layer": [
+                {
+                  "mark": {"type": "line"}
+                }, 
+                {
+                  "mark": {
+                    "type": "circle", 
+                    "tooltip": true
+                  }
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": {
+            "text": "Number of host identity verifications in each borough",
+            "color": "#FF5A5F",
+            "fontSize": 14,
+            "anchor": "middle"
+          },
+          "repeat": ["number of host verified", "number of host unconfirmed", "number of host verification unknown"],
+          "spec": {
+            "height": 100,
+            "width": 198,
+            "data": {
+              "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Aggregated_Airbnb_Host_Verification.csv"
+            },
+            "mark": {"type": "bar", "tooltip": true},
+            "encoding": {
+              "x": {
+                "field": {
+                    "repeat": "repeat"
+                },
+                "type": "quantitative"
+              },                                      
+              "y": {
+                "field": "borough", 
+                "type": "nominal", 
+                "title": null,
+                "sort": {
+                  "op": "sum", 
+                  "field": {
+                    "repeat": "repeat"
+                  }, 
+                  "order": "descending"
+                }             
+              }, 
+              "color": {
+                "field": "borough", 
+                "type": "nominal",
+                "scale": {              
+                  "range": ["#FF5A5F", "#C6017E", "#D51616", "#6F019C", "#900603"]
+                },
+                "legend": null
+              },
+              "tooltip": {
+                "condition": {
+                  "param": "b_highlight",
+                  "field": {                        
+                    "repeat": "repeat"
+                  }
+                },                  
+                "value": null
+              },
+              "fillOpacity": {
+                "condition": {
+                  "param": "b_highlight", 
+                  "value": 1
+                },
+                "value": 0.1                  
+              }                
+            }
+          }
+        },
+
+        {
+          "title": {
+            "text": "Number of Airbnbs that are instant bookable",
+            "color": "#FF5A5F",
+            "fontSize": 14,
+            "anchor": "middle"
+          },
+          "data": {
+            "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Filter_Airbnb_Instant_Bookable.csv"            
+          },
+          "width": 773,
+          "mark": "bar",
+          "encoding": {
+            "y": {
+              "field": "instant_bookable",                
+              "type": "nominal",
+              "title": null
+            },
+            "x": {
+              "aggregate": "count",
+              "type": "quantitative",
+              "title": "number of boroughs"       
+            },
+            "order": {
+              "aggregate": "count",
+              "sort": "descending"
+            },
+            "color": {
+              "field": "borough", 
+              "type": "nominal",
+              "scale": {              
+                "range": ["#FF5A5F", "#C6017E", "#D51616", "#6F019C", "#900603"]
+              },
+              "legend": null
+            },
+            "fillOpacity": {
+              "condition": {
+                "param": "b_highlight",                   
+                "value": 1
+              },
+              "value": 0.1                 
+            },
+            "tooltip": {
+              "condition": {
+                "param": "b_highlight", 
+                "aggregate": "count"
+              },
+              "value": null
+            }   
+          }
+        },
+
+        {
+          "title": {
+            "text": "Room type for rent in each borough",
+            "color": "#FF5A5F",
+            "fontSize": 14,
+            "anchor": "middle"
+          },
+          "data": {
+            "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Aggregated_Airbnb_Room_Type.csv"
+          },
+          "transform": [
+            {
+              "window": [{
+                "op": "sum",
+                "field": "number of rooms",
+                "as": "total_rooms"
+              }],
+              "frame": [null, null],
+              "groupby": ["borough"]
+            },
+            {
+              "calculate": "datum['number of rooms']/datum.total_rooms", "as": "percentage"
+            }
+          ],
+          "facet": {
+            "field": "borough",
+            "title": null,
+            "header": {
+              "labelOrient": "bottom",
+              "labelPadding": -15,
+              "labelFontWeight":"bold"
+            },
+            "sort": ["Manhattan", "Brooklyn", "Queens", "Bronx", "Staten Island"]
+          },
+          "spec": {
+            "width": 140,
+            "height": 190,
+            "encoding": {
+              "theta": {
+                "field": "percentage",
+                "type": "quantitative",
+                "stack": true
+              },
+              "color": {
+                "field": "room type",
+                "type": "nominal",
+                "scale": {
+                  "range": ["#E30B5D", "#4F86F7", "#FC642D"]
+                },
+                "legend": {
+                  "direction": "horizontal",
+                  "orient": "none",
+                  "title": null,
+                  "legendX": 260
+                }
+              },
+              "opacity": {
+                "condition": {
+                  "param": "b_highlight",
+                  "value": 1
+                },
+                "value": 0.1
+              }
+            },
+            "layer": [
+              {
+                "mark": "arc"
+              },
+              {
+                "mark": {
+                  "type": "text", 
+                  "radius": 44
+                },
+                "encoding": {
+                  "text": {
+                    "field": "percentage",
+                    "format": ".2%"
+                  },
+                  "color": {"value": "white"}
+                }
+              }
+            ]
+          }
+        },
+        {
+          "title": {
+            "text": "Cancellation policy in each borough",
+            "color": "#FF5A5F",
+            "fontSize": 14,
+            "anchor": "middle"
+          },
+          "data": {
+            "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Aggregated_Airbnb_Cancellation_Policy.csv"
+          },
+          "facet": {
+            "field": "borough",
+            "title": null,
+            "header": {
+              "labelOrient": "bottom",
+              "labelPadding": -15,
+              "labelFontWeight":"bold"
+            },
+            "sort": ["Manhattan", "Brooklyn", "Queens", "Bronx", "Staten Island"]
+          },
+          "spec": {
+            "width": 140,
+            "height": 190,
+            "encoding": {
+              "theta": {
+                "field": "number of policies",
+                "type": "quantitative",
+                "stack": true
+              },
+              "color": {
+                "field": "cancellation policy",
+                "type": "nominal",
+                "scale": {
+                  "range": ["#1B44B0", "#B22A80", "#E930C0"]
+                },
+                "legend": {
+                  "direction": "horizontal",
+                  "orient": "none",
+                  "title": null,
+                  "legendX": 305
+                }
+              },
+              "opacity": {
+                "condition": {
+                  "param": "b_highlight",
+                  "value": 1
+                },
+                "value": 0.1
+              }
+            },
+            "layer": [
+              {
+                "mark": {
+                  "type": "arc",
+                  "innerRadius": 30
+                }
+                
+              },
+              {
+                "mark": {
+                  "type": "text", 
+                  "radius": 50
+                },
+                "encoding": {
+                  "text": {
+                    "field": "number of policies"
+                  },
+                  "color": {"value": "white"}
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "resolve": {
+        "scale": {
+          "color": "independent"
+        }
+      }
+    }
+  ],
+
+  "config": {
+    "scale": {
+      "bandPaddingInner": 0.2
+    }
+  }
+
+}
