@@ -1,6 +1,16 @@
-borough,strict_cancellation,moderate_cancellation,flexible_cancellation
-Brooklyn,9075,9017,8892
-Manhattan,8977,9159,9169
-Staten Island,214,222,203
-Queens,2923,2941,2929
-Bronx,585,609,619
+borough,cancellation policy,number of policies
+Brooklyn,strict,9075
+Manhattan,strict,8977
+Staten Island,strict,214
+Queens,strict,2923
+Bronx,strict,585
+Brooklyn,moderate,9017
+Manhattan,moderate,9159
+Staten Island,moderate,222
+Queens,moderate,2941
+Bronx,moderate,609
+Brooklyn,flexible,8892
+Manhattan,flexible,9169
+Staten Island,flexible,203
+Queens,flexible,2929
+Bronx,flexible,619
