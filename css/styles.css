@@ -1,7 +1,7 @@
 body *{
     font-family:Arial, Helvetica, sans-serif;
     font-size:small;
-  }
+}
 
 h1 {
     font-weight: 900;
@@ -27,20 +27,15 @@ h1 {
     padding-left: 0px;
 }
 
-.description-middle {
-    padding-left: 20px;
-}
-
 .description-left {
     padding-right: 0px;
 }
 
 .page {
-    width: 850px;
     background-color: white;
     margin: auto;
-    padding: 50px;
     padding-top: 35px;
+    padding: 20px;
 }
 
 .pure-g {
