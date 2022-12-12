@@ -8,7 +8,7 @@
         "color": "#FF5A5F"
       },
       "width": 700,
-      "height": 850,
+      "height": 900,
       "projection": {"type": "albersUsa"},
       "layer": [
         {
