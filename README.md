@@ -23,4 +23,5 @@ Step 3: Create the visualization
 - Used HTML to organise the layout of the page --> index.html
 - Used CSS to format the page --> styles.css
 
+The visualization can be accessed from [here](https://jennyvanlinh.github.io/NYCAirbnb2022/).
 
