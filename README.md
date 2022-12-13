@@ -1,5 +1,5 @@
 # Introduction
-This visualization aims to let viewers know about common data of Airbnb listings in New York City. The datasets are from New York City Airbnb Open Data, available on [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) and [NYC OpenData](https://opendata.cityofnewyork.us/). The aim of this visualization is to allow viewers to know the general Airbnb listing information of each borough in NYC. Over 80,000 data has been used for this visualization.
+This visualization aims to let viewers know about common data of Airbnb listings in New York City. The datasets are from New York City Airbnb Open Data, available on [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) and [NYC OpenData](https://opendata.cityofnewyork.us/). The aim of this visualization is to allow viewers to know the general Airbnb listing information of each borough in NYC. 
 
 # Steps
 Step 1: Clean the data
