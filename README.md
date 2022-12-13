@@ -10,7 +10,7 @@ Step 1: Clean the data
 - Saved as a new CSV file --> Clean_Airbnb_Data.csv
 
 Step 2: Manipulate the data
-- Used Excel to manipulate the data accordingly so that we can create the charts and graphs 
+- Used Excel to manipulate the data in Clean_Airbnb_Data.csv accordingly so that we can create the charts and graphs 
   - General Information --> Aggregated_Airbnb_Quantitative_Values.csv
   - Construction year --> Aggregated_Airbnb_Construction_Year.csv
   - Host verification --> Aggregated_Airbnb_Host_Verification.csv
