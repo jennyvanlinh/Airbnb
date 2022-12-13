@@ -7,8 +7,8 @@
         "fontSize": 14,
         "color": "#FF5A5F"
       },
-      "width": 700,
-      "height": 900,
+      "width": 600,
+      "height": 850,
       "projection": {"type": "albersUsa"},
       "layer": [
         {
@@ -109,7 +109,7 @@
                 "fontSize": 14,
                 "anchor": "middle"
               },
-              "width": 200,
+              "width": 150,
               "height": 200,
               "data": {
                 "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Aggregated_Airbnb_Quantitative_Values.csv"
@@ -172,7 +172,7 @@
                 "anchor": "middle",
                 "color": "#FF5A5F"
               },
-              "width": 480,
+              "width": 400,
               "height": 200,
               "data": {
                 "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Aggregated_Airbnb_Construction_Year.csv"
@@ -235,7 +235,7 @@
           "repeat": ["number of host verified", "number of host unconfirmed", "number of host verification unknown"],
           "spec": {
             "height": 100,
-            "width": 198,
+            "width": 150,
             "data": {
               "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Aggregated_Airbnb_Host_Verification.csv"
             },
@@ -297,7 +297,7 @@
           "data": {
             "url": "https://raw.githubusercontent.com/jennyvanlinh/NYCAirbnb2022/main/data/Filter_Airbnb_Instant_Bookable.csv"            
           },
-          "width": 773,
+          "width": 670,
           "mark": "bar",
           "encoding": {
             "y": {
@@ -374,7 +374,7 @@
             "sort": ["Manhattan", "Brooklyn", "Queens", "Bronx", "Staten Island"]
           },
           "spec": {
-            "width": 140,
+            "width": 125,
             "height": 190,
             "encoding": {
               "theta": {
@@ -392,7 +392,7 @@
                   "direction": "horizontal",
                   "orient": "none",
                   "title": null,
-                  "legendX": 260
+                  "legendX": 205
                 }
               },
               "opacity": {
@@ -410,7 +410,7 @@
               {
                 "mark": {
                   "type": "text", 
-                  "radius": 44
+                  "radius": 40
                 },
                 "encoding": {
                   "text": {
@@ -444,7 +444,7 @@
             "sort": ["Manhattan", "Brooklyn", "Queens", "Bronx", "Staten Island"]
           },
           "spec": {
-            "width": 140,
+            "width": 125,
             "height": 190,
             "encoding": {
               "theta": {
@@ -462,7 +462,7 @@
                   "direction": "horizontal",
                   "orient": "none",
                   "title": null,
-                  "legendX": 305
+                  "legendX": 255
                 }
               },
               "opacity": {
@@ -484,7 +484,7 @@
               {
                 "mark": {
                   "type": "text", 
-                  "radius": 50
+                  "radius": 45
                 },
                 "encoding": {
                   "text": {
@@ -508,6 +508,9 @@
   "config": {
     "scale": {
       "bandPaddingInner": 0.2
+    },
+    "facet": {
+      "spacing": 10
     }
   }
 
